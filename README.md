@@ -6,12 +6,6 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/0/streamPlayl
 #EXTINF:-1, tv-logo="" group-title="El Salvador", Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
-#EXTINF:-1, tv-logo="" group-title="El Salvador", TVX
-https://video-weaver.jfk06.hls.ttvnw.net/v1/playlist/CscFfgN6X_86fq-AkRN_wrXp9UrN7Z38BD8TJGZZLHeyGTuXDylJCC-cXUAboHUjve49a8ppL_wBbkuK0bKDg88D6vcWn9JX_lOqA8kw5R93Jsfl858GRSZwPklgKcmHmmM1ZB0M38nVn5VZiqyeag2wrZZA4t9YSr1zdzA-LUjOQN_s0oe9qFohpGhMvS_FO5VSyUr1qAMpQcFqSP5W6AEtictkxKZEwRtfYd8eA-wzA_Rb0PgfT4NWzVch0o6qvkheDQVlvgFHS8CCgb7SxoKFMT27GM3IPSsw6Ake93sKiUmWuP_MVDhIZ-ImcykJwnJHUlfJFiQ70k7iW7JwmQABNTNhM7h0ytGUPF63InS26OseJGhOBENRvNXP8KcKEmJtKlf0dXvSz8wPbnsejIGVMurKHgPef5untfG1Yprels2oKH-pU0Tnj6r1p2zPZ8TBsdQnOv_kV-oWOFsz0Mvmd0H-QpXR8MiGYPs7d4-SCUDDf6RTIMT_5TsIg7GB2_vckoniNuAfPgG96jNWl-AbTWprvY2GBoNFc15Gp9V5L1Q1K067glECtiYIjopIJ5_Ug7Cdt1Xwh2WRn1-9-jpD6y-_Q2G9hqcMP2GncHu9YHU10ytBTjul2xR6HJqsq4t9WpO8n4o2nPD0Nb54C15gWL_c-mBJ076xpaeAyQlWBjMaVVlBaemQpPyZSJjem32iuPKh44t4cZpiWNg36ssTD_3PrJ4GUhQzHQRP_sK3bTfVW5nhmYBhzAoGQnmwAaNYzL8BZkqwu7ABXHVV-jJ0TkPlnW76l72mGoOlnJlz2pNeU7A9aY_S1HO7NGPd6qRfO8_2kYtcDowCtZ019yeRQEpUf5s41cnBk4eFF3cJdQSkaOmUYyBFyYrWpAN-YJQXfpR9M3Qd4A8kZbfyZMmqUQhkKk1h93lgJbumlGrAgJhSYRSQOiqeGgydhEoG2AKBVswP730gASoJdXMtZWFzdC0yMOsF.m3u8
-
-#EXTINF:-1, tv-logo="" group-title="El Salvador", Canal 33
-https://5e50264bd6766.streamlock.net/canal33/smil:canal33.smil/chunklist_w301560469_b1428000_DVR_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDIzIDM6MTM6MDcgUE0maGFzaF92YWx1ZT1WTEpxcXg0V2QwSlVMSnE0emRDZ1VnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
-
 #EXTINF:-1, tv-logo="" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
