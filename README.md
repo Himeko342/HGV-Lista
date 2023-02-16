@@ -40,8 +40,7 @@ https://dcs-live.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/manifest.m3u8?encp=nw
 http://regioplay.xyz/php/SR_REGIO_112023_/vix.php?c=452&pid=452&token=SrRegio&f=.m3u8
 
 #EXTINF:-1, tv-logo="" group-title="Deportes", Univisión
-http://regioplay.xyz/php/SR_REGIO_112
-
+https://usher.ttvnw.net/api/channel/hls/utn_23lk.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=1532623&play_session_id=5aaae9d1c2b9b347e29bf5199524206d&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=1a6b920c28863ce25d4556730376cf17606a61fd&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22utn_23lk%22%2C%22channel_id%22%3A856983439%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22v99YM3SluuhRKlT2DMGJ48MrY5cZOwtH%22%2C%22expires%22%3A1676524560%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.86.107.67%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.17.0
 
 #EXTINF:-1, tv-logo="" group-title="España", Telecinco
 https://livek.mediaset.es/orilinear17/live/linear17/playlist/playlist.isml/ctv.m3u8?hdnts=st=1676150057~exp=1676236456~acl=/*~hmac=ea465fef5889e1bc122fa3befae5930405aed550b55f30365d1db8d01ef6cd59
