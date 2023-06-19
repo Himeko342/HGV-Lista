@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, tv-logo="" group-title="El Salvador", Canal 19
+#EXTINF:-1, group-title="El Salvador", Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
 
 #EXTINF:-1, tv-logo="" group-title="El Salvador", Canal 21
