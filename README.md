@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/68348.ts
+
+#EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 4
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/68349.ts
+
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
 
