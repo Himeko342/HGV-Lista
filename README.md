@@ -3,7 +3,7 @@
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 2
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/68348.ts
 
-#EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 4 HD
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png" group-title="El Salvador", Canal 4
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/68349.ts
 
 #EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/800px-Canal_6_TCS.png" group-title="El Salvador", Canal 6
