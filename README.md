@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 1
+#EXTINF:-1 tv-logo="" group-title="El Salvador", 1-Prueba
 http://tv.nousiptv.com:8080/238206/2382/51401
 
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 2
