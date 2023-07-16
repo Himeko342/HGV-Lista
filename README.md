@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png" group-title="El Salvador", Canal 1
-http://tv.nousiptv.com:8080/238206/2382/51400
+#EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 1
+http://tv.nousiptv.com:8080/238206/2382/51401
 
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 2
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/68348.ts
