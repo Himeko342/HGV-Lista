@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Prueba
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/169523
+https://1109-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 2
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/68348.ts
