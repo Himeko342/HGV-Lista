@@ -27,6 +27,9 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/68352.ts
 #EXTINF:-1 tvg-logo="" group-title="El Salvador", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", TVX
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
+
 #EXTINF:-1 tv-logo="" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
