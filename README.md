@@ -6,11 +6,14 @@ https://1109-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 2
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/68348.ts
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png" group-title="El Salvador", Canal 4
+#EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 4
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/68349.ts
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/800px-Canal_6_TCS.png" group-title="El Salvador", Canal 6
+#EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 6
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/68350.ts
+
+#EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 12
+https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
 
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
