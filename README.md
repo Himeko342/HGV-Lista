@@ -3,14 +3,19 @@
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 2
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/68348.ts
 
-#EXTINF:-1 tv-logo="http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_AsauxOf3VOx_LGGh8YW4pA9vbbsx0w37Nu825-Xg_zWPgQ36_DqJL-pAyWijjyJI4.png" group-title="EL SALVADOR", CANAL 4 FHD
+#EXTINF:-1 tvg-logo="http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_AsauxOf3VOx_LGGh8YW4pA9vbbsx0w37Nu825-Xg_zWPgQ36_DqJL-pAyWijjyJI4.png" group-title="EL SALVADOR", CANAL 4 FHD
 http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OCFe743XwwZM-ZSa0DDfiBot1BzIewMZkUCstkVz3mMT
 
-#EXTINF:-1 tv-logo="http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_AsauxOf3VOx_LGGh8YW4pA9vbbsx0w37Nu825-Xg_zWPgQ36_DqJL-pAyWijjyJI4.png" group-title="EL SALVADOR", CANAL 4 HD 
+#EXTINF:-1 tvg-logo="http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_AsauxOf3VOx_LGGh8YW4pA9vbbsx0w37Nu825-Xg_zWPgQ36_DqJL-pAyWijjyJI4.png" group-title="EL SALVADOR", CANAL 4 HD 
 http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OCFe743XwwZM-ZSa0DDfiBp6ecqNtGXK-wQmsCfr-jZu
 
-#EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 6
-http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/68350.ts
+#EXTINF:-1 tvg-name="CANAL 6 FHD" tvg-logo="http://dnslivetv.online:80/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1ErehKOB-qwZpAvBuV-RCXEA2xd0i1rMvzDbO2w_TC5iqcJGFA6krSCZ-iICLB4kh6jpN0KOh_zKFK9z15vxBsmIyPAA-loTILj8-uL3FAoRRx1Qx1KvVSYgULylaNM6GsO08_u3iGDFUX5-UjpW-T7.png" group-title="EL SALVADOR", CANAL 6 FHD
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPnXi4DFgC9BBHEr31V2zX8eqrw2J3JEEvcRslyCYYOW
+
+#EXTINF:-1 tvg-name="CANAL 6 HD" tvg-logo="http://dnslivetv.online:80/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1ErehKOB-qwZpAvBuV-RCXEA2xd0i1rMvzDbO2w_TC5iqcJGFA6krSCZ-iICLB4kh6jpN0KOh_zKFK9z15vxBsmIyPAA-loTILj8-uL3FAoRRx1Qx1KvVSYgULylaNM6GsO08_u3iGDFUX5-UjpW-T7.png" group-title="EL SALVADOR", CANAL 6 HD
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPnXi4DFgC9BBHEr31V2zX_CDx_HMEl5G3UAiUFG7pBI
+
+#EXTINF:-1 tvg-name="CANAL 6 SD" tvg-logo="http://dnslivetv.online:80/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1ErehKOB-qwZpAvBuV-RCXEA2xd0i1rMvzDbO2w_TC5iqcJGFA6krSCZ-iICLB4kh6jpN0KOh_zKFK9z15vxBsmIyPAA-loTILj8-uL3FAoRRx1Qx1KvVSYgULylaNM6GsO08_u3iGDFUX5-UjpW-T7.png" group-title="EL SALVADOR", CANAL 6 SD
 
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 12
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
