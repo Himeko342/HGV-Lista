@@ -16,6 +16,7 @@ http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPnXi4DFgC9BBHEr31V2zX8eqrw2
 http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPnXi4DFgC9BBHEr31V2zX_CDx_HMEl5G3UAiUFG7pBI
 
 #EXTINF:-1 tvg-name="CANAL 6 SD" tvg-logo="http://dnslivetv.online:80/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1ErehKOB-qwZpAvBuV-RCXEA2xd0i1rMvzDbO2w_TC5iqcJGFA6krSCZ-iICLB4kh6jpN0KOh_zKFK9z15vxBsmIyPAA-loTILj8-uL3FAoRRx1Qx1KvVSYgULylaNM6GsO08_u3iGDFUX5-UjpW-T7.png" group-title="EL SALVADOR", CANAL 6 SD
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPnXi4DFgC9BBHEr31V2zX_4rCBEmlfdBcGxmOd2yo7B
 
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 12
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
