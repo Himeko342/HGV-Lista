@@ -51,3 +51,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tv-logo="" group-title="Noticias", CNN
 http://181.78.24.67:8010/play/a03p/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES LATINOS", ESPN DEPORTES FHD
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OFZAYuDL-C11LAHWmqc5AHEINJEzyIuYuRJX7EkjIGDt
+
