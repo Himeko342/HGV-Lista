@@ -54,3 +54,8 @@ http://181.78.24.67:8010/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES LATINOS", ESPN DEPORTES FHD
 http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OFZAYuDL-C11LAHWmqc5AHEINJEzyIuYuRJX7EkjIGDt
 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES LATINOS", ESPN DEPORTES HD
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OFZAYuDL-C11LAHWmqc5AHFwza2elD5rSwe4tUW5iuxQ
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES LATINOS", ESPN DEPORTES
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OGKaCmvJV8_cZtPt5WgZ_aR5Ie9-KOS2V0Xj0ih5hBnF
