@@ -6,13 +6,12 @@ http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/7115
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 2
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/68348.ts
 
-#EXTINF:-1 
-tvg-logo="http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_AsauxOf3VOx_LGGh8YW4pA9vbbsx0w37Nu825-Xg_zWPgQ36_DqJL-pAyWijjyJI4.png" 
+#EXTINF:-1 tv-logo="http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_AsauxOf3VOx_LGGh8YW4pA9vbbsx0w37Nu825-Xg_zWPgQ36_DqJL-pAyWijjyJI4.png" 
 group-title="EL SALVADOR", CANAL 4 FHD
 http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OCFe743XwwZM-ZSa0DDfiBot1BzIewMZkUCstkVz3mMT
 
 #EXTINF:-1 
-tvg-logo="http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_AsauxOf3VOx_LGGh8YW4pA9vbbsx0w37Nu825-Xg_zWPgQ36_DqJL-pAyWijjyJI4.png" 
+tv-logo="http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_AsauxOf3VOx_LGGh8YW4pA9vbbsx0w37Nu825-Xg_zWPgQ36_DqJL-pAyWijjyJI4.png" 
 group-title="EL SALVADOR", CANAL 4 HD
 http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OCFe743XwwZM-ZSa0DDfiBp6ecqNtGXK-wQmsCfr-jZu
 
