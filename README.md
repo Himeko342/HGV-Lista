@@ -52,3 +52,22 @@ http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OA3WVFpSzt3UPIEcG9alsjE-Ksom
 #EXTINF:-1 xui-id="866518" tvg-id="" tvg-name="K4CH: Canal 12" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsQI4VJ4_QqiUUCxXeJ1qQMI.png" group-title="EL SALVADOR LOCAL",K4CH: Canal 12
 http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OJnvFa2uVJl7NmZbmsnvWbPkzziD3grY1bP2mzpz_XsM
 
+
+#EXTINF:-1 xui-id="866521" tvg-id="" tvg-name="K4CH: Legislative Assembly of El Salvador" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsT6u4C3Dnb8-FAteQCbQmEQ.png" group-title="⚪ - EL SALVADOR LOCAL",K4CH: Legislative Assembly of El Salvador
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPMyhk6kMMXC36gWDuvbFv0GMEqi9-cwyrxyeYlB5xkx
+#EXTINF:-1 xui-id="866522" tvg-id="" tvg-name="K4CH: Megavision Canal 19" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsZfDTRjUZB6AEKjeNdMXI3U.png" group-title="⚪ - EL SALVADOR LOCAL",K4CH: Megavision Canal 19
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPMyhk6kMMXC36gWDuvbFv0WzB3j6NNZDBOoxl7xDtbV
+#EXTINF:-1 xui-id="866523" tvg-id="" tvg-name="K4CH: Megavision Canal 21" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsZLcTFGI9N5tpn2g_k9NK0E.png" group-title="⚪ - EL SALVADOR LOCAL",K4CH: Megavision Canal 21
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPMyhk6kMMXC36gWDuvbFv1TpYX2kIDp4fo3FI14q0dq
+#EXTINF:-1 xui-id="866524" tvg-id="" tvg-name="K4CH: Orbita TV" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBscnWVjcM7Px121fWpVAhKbo.png" group-title="⚪ - EL SALVADOR LOCAL",K4CH: Orbita TV
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPMyhk6kMMXC36gWDuvbFv1Ym5JT-thbZWiCW3uaVv3J
+#EXTINF:-1 xui-id="866526" tvg-id="" tvg-name="K4CH: TaberTV" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsYOCoWTRK31ymSL6vzO54VQ.png" group-title="⚪ - EL SALVADOR LOCAL",K4CH: TaberTV
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPMyhk6kMMXC36gWDuvbFv3ahoNes7HzgWBDJLTT2hBF
+#EXTINF:-1 xui-id="866527" tvg-id="" tvg-name="K4CH: TCS" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsU2XYcoO8Ttgjn7xfEm7u7E.png" group-title="⚪ - EL SALVADOR LOCAL",K4CH: TCS
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPMyhk6kMMXC36gWDuvbFv3X5c_PLUsVOeCtbC_q5zsh
+#EXTINF:-1 xui-id="866528" tvg-id="" tvg-name="K4CH: Tribuna TV" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsS0fKJJnmkcxiTZcaVknK00.png" group-title="⚪ - EL SALVADOR LOCAL",K4CH: Tribuna TV
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPMyhk6kMMXC36gWDuvbFv1q9Nvhxa5ie2Za4_4poYTG
+#EXTINF:-1 xui-id="866529" tvg-id="" tvg-name="K4CH: TVCa" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsTGxoUPQR0goQV7Jpw41L_4.png" group-title="⚪ - EL SALVADOR LOCAL",K4CH: TVCa
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPMyhk6kMMXC36gWDuvbFv0N_LOn_bWHBdWD8y9K0CTE
+#EXTINF:-1 xui-id="866531" tvg-id="" tvg-name="K4CH: WOW TV" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsSWDHDkv0Mj85taf1r8DjKA.png" group-title="⚪ - EL SALVADOR LOCAL",K4CH: WOW TV
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPqE2kbRR7EK_x-RId17XBCJtiOgJC5XgedAUsvimrTB
