@@ -34,72 +34,21 @@ http://181.78.24.67:8010/play/a03p/index.m3u8
 
 
 
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OLEWT8MWhOhnsRmv0J0Jh1ChtMpt8ZbvWA5q8oIIQYTQ
-#EXTINF:-1 xui-id="591903" tvg-id="" tvg-name="SV01: CANAL 2 HD" tvg-logo="http://dnslivetv.online:80/images/2ahqQZqVYHfGG9NeADwxjOJQ-qSJLhAm282-h-sdCGqtHTL9xaqIBO5mbZjoUViePc4963QTN1Kb0gXg5rUCAg.png" group-title="EL SALVADOR",SV01: CANAL 2 HD
+#EXTINF:-1 xui-id="859662" tvg-id="" tvg-name="SV30: TCS+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsO1ZfCRqM_YPyPCBD3C2-IqAH4U72imF1OKwsbj66CaEpKZjNnZI376nqXBCa4YUDBlw&usqp=CAU" group-title="EL SALVADOR",SV30: TCS+
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OA3WVFpSzt3UPIEcG9alsjFExdK2eDRf5AkgUD3pikHo
 
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OLEWT8MWhOhnsRmv0J0Jh1BXPXntqtpAEx770jg5h6Mc
-#EXTINF:-1 xui-id="591904" tvg-id="" tvg-name="SV02: CANAL 2" tvg-logo="http://dnslivetv.online:80/images/2ahqQZqVYHfGG9NeADwxjOJQ-qSJLhAm282-h-sdCGqtHTL9xaqIBO5mbZjoUViePc4963QTN1Kb0gXg5rUCAg.png" group-title="EL SALVADOR",SV02: CANAL 2
+#EXTINF:-1 xui-id="859661" tvg-id="" tvg-name="SV29: TCS+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsO1ZfCRqM_YPyPCBD3C2-IqAH4U72imF1OKwsbj66CaEpKZjNnZI376nqXBCa4YUDBlw&usqp=CAU" group-title="EL SALVADOR",SV29: TCS+ HD
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OA3WVFpSzt3UPIEcG9alsjEbynI6aYVI5zcp94pDe785
 
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OLEWT8MWhOhnsRmv0J0Jh1D2TJim6wx32yPPcBUTuvoy
-#EXTINF:-1 xui-id="591902" tvg-id="" tvg-name="SV03: CANAL 2 FHD" tvg-logo="http://dnslivetv.online:80/images/2ahqQZqVYHfGG9NeADwxjOJQ-qSJLhAm282-h-sdCGqtHTL9xaqIBO5mbZjoUViePc4963QTN1Kb0gXg5rUCAg.png" group-title="EL SALVADOR",SV03: CANAL 2 FHD
+#EXTINF:-1 xui-id="859665" tvg-id="" tvg-name="SV33: CANAL 12" tvg-logo="http://dnslivetv.online:80/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1He32vdzst2zScYIR-zhzWw2rfX5EoxLBUSQRY9aoRzuRB5V2dIxgOPfPqRiFA518N-9aHlSaBTIvby55mRtdS0PfwCMKbWv2jgejTrPQl9nyIxcOP3SDjKDaRw8r4toxASydduVqrVwKx6TchW8ZRI.png" group-title="EL SALVADOR",SV33: CANAL 12
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OA3WVFpSzt3UPIEcG9alsjEFMWl_Lxwsu2TZ8L0svKjZ
 
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OCFe743XwwZM-ZSa0DDfiBp6ecqNtGXK-wQmsCfr-jZu
-#EXTINF:-1 xui-id="589590" tvg-id="" tvg-name="SV04: CANAL 4 SD" tvg-logo="http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_AsauxOf3VOx_LGGh8YW4pA9vbbsx0w37Nu825-Xg_zWPgQ36_DqJL-pAyWijjyJI4.png" group-title="EL SALVADOR",SV04: CANAL 4 SD
+#EXTINF:-1 xui-id="859664" tvg-id="" tvg-name="SV32: CANAL 12 HD" tvg-logo="http://dnslivetv.online:80/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1He32vdzst2zScYIR-zhzWw2rfX5EoxLBUSQRY9aoRzuRB5V2dIxgOPfPqRiFA518N-9aHlSaBTIvby55mRtdS0PfwCMKbWv2jgejTrPQl9nyIxcOP3SDjKDaRw8r4toxASydduVqrVwKx6TchW8ZRI.png" group-title="EL SALVADOR",SV32: CANAL 12 HD
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OA3WVFpSzt3UPIEcG9alsjFvl5c54x4MsKSSN9SWNNsT
 
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OCFe743XwwZM-ZSa0DDfiBot1BzIewMZkUCstkVz3mMT
-#EXTINF:-1 xui-id="589589" tvg-id="" tvg-name="SV05: CANAL 4 HD" tvg-logo="http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_AsauxOf3VOx_LGGh8YW4pA9vbbsx0w37Nu825-Xg_zWPgQ36_DqJL-pAyWijjyJI4.png" group-title="EL SALVADOR",SV05: CANAL 4 HD
+#EXTINF:-1 xui-id="859663" tvg-id="" tvg-name="SV31: CANAL 12 FHD" tvg-logo="http://dnslivetv.online:80/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1He32vdzst2zScYIR-zhzWw2rfX5EoxLBUSQRY9aoRzuRB5V2dIxgOPfPqRiFA518N-9aHlSaBTIvby55mRtdS0PfwCMKbWv2jgejTrPQl9nyIxcOP3SDjKDaRw8r4toxASydduVqrVwKx6TchW8ZRI.png" group-title="EL SALVADOR",SV31: CANAL 12 FHD
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OA3WVFpSzt3UPIEcG9alsjE-Ksomu3OP8C7XMxLkjzYd
 
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OCFe743XwwZM-ZSa0DDfiBr9WlEO0Q65YQPeAWngXA41
-#EXTINF:-1 xui-id="589588" tvg-id="" tvg-name="SV06: CANAL 4 FHD" tvg-logo="http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_AsauxOf3VOx_LGGh8YW4pA9vbbsx0w37Nu825-Xg_zWPgQ36_DqJL-pAyWijjyJI4.png" group-title="EL SALVADOR",SV06: CANAL 4 FHD
+#EXTINF:-1 xui-id="866518" tvg-id="" tvg-name="K4CH: Canal 12" tvg-logo="http://dnslivetv.online:80/images/mg9e4VnU5MiobcDarwnBsQI4VJ4_QqiUUCxXeJ1qQMI.png" group-title="EL SALVADOR LOCAL",K4CH: Canal 12
+http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OJnvFa2uVJl7NmZbmsnvWbPkzziD3grY1bP2mzpz_XsM
 
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPnXi4DFgC9BBHEr31V2zX_CDx_HMEl5G3UAiUFG7pBI
-#EXTINF:-1 xui-id="589593" tvg-id="" tvg-name="SV07: CANAL 6 SD" tvg-logo="http://dnslivetv.online:80/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1ErehKOB-qwZpAvBuV-RCXEA2xd0i1rMvzDbO2w_TC5iqcJGFA6krSCZ-iICLB4kh6jpN0KOh_zKFK9z15vxBsmIyPAA-loTILj8-uL3FAoRRx1Qx1KvVSYgULylaNM6GsO08_u3iGDFUX5-UjpW-T7.png" group-title="EL SALVADOR",SV07: CANAL 6 SD
-
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPnXi4DFgC9BBHEr31V2zX8eqrw2J3JEEvcRslyCYYOW
-#EXTINF:-1 xui-id="589592" tvg-id="" tvg-name="SV08: CANAL 6 HD" tvg-logo="http://dnslivetv.online:80/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1ErehKOB-qwZpAvBuV-RCXEA2xd0i1rMvzDbO2w_TC5iqcJGFA6krSCZ-iICLB4kh6jpN0KOh_zKFK9z15vxBsmIyPAA-loTILj8-uL3FAoRRx1Qx1KvVSYgULylaNM6GsO08_u3iGDFUX5-UjpW-T7.png" group-title="EL SALVADOR",SV08: CANAL 6 HD
-
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPnXi4DFgC9BBHEr31V2zX_fTPuNiOpNih1-mWY32aFe
-#EXTINF:-1 xui-id="589591" tvg-id="" tvg-name="SV09: CANAL 6 FHD" tvg-logo="http://dnslivetv.online:80/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1ErehKOB-qwZpAvBuV-RCXEA2xd0i1rMvzDbO2w_TC5iqcJGFA6krSCZ-iICLB4kh6jpN0KOh_zKFK9z15vxBsmIyPAA-loTILj8-uL3FAoRRx1Qx1KvVSYgULylaNM6GsO08_u3iGDFUX5-UjpW-T7.png" group-title="EL SALVADOR",SV09: CANAL 6 FHD
-
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OLEWT8MWhOhnsRmv0J0Jh1AIU5pBco3ZNNbv67gK7YJm
-#EXTINF:-1 xui-id="591908" tvg-id="" tvg-name="SV27: TVES CANAL 10 SD" tvg-logo="http://dnslivetv.online:80/images/Z9P7BwxXlTl-k8RLQ286tO10724m3vnFGAOEKN_KVCiubvzVj3GrwcJWnywzZ6IYrMQHqD94G1CECdS_os61bUzkwmnpw5ALyaFdPrYLp9WXqJZC0Qc1slprtKB6bQuAjs3ubW_J551G1Z5LQITg9lEUXpjfYcNB5ZzfXs_kFFVSZHXP2OoDPtn4IYxIj81c.png" group-title="EL SALVADOR",SV27: TVES CANAL 10 SD
-
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OLEWT8MWhOhnsRmv0J0Jh1Ch92IRrAEQD9LBzH1YcuRu
-#EXTINF:-1 xui-id="591907" tvg-id="" tvg-name="SV26: TVES CANAL 10 HD" tvg-logo="http://dnslivetv.online:80/images/Z9P7BwxXlTl-k8RLQ286tO10724m3vnFGAOEKN_KVCiubvzVj3GrwcJWnywzZ6IYrMQHqD94G1CECdS_os61bUzkwmnpw5ALyaFdPrYLp9WXqJZC0Qc1slprtKB6bQuAjs3ubW_J551G1Z5LQITg9lEUXpjfYcNB5ZzfXs_kFFVSZHXP2OoDPtn4IYxIj81c.png" group-title="EL SALVADOR",SV26: TVES CANAL 10 HD
-
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OLEWT8MWhOhnsRmv0J0Jh1DeLumZlrX_DeMg2SRVkYUm
-#EXTINF:-1 xui-id="591906" tvg-id="" tvg-name="SV25: TVES CANAL 10 FHD" tvg-logo="http://dnslivetv.online:80/images/Z9P7BwxXlTl-k8RLQ286tO10724m3vnFGAOEKN_KVCiubvzVj3GrwcJWnywzZ6IYrMQHqD94G1CECdS_os61bUzkwmnpw5ALyaFdPrYLp9WXqJZC0Qc1slprtKB6bQuAjs3ubW_J551G1Z5LQITg9lEUXpjfYcNB5ZzfXs_kFFVSZHXP2OoDPtn4IYxIj81c.png" group-title="EL SALVADOR",SV25: TVES CANAL 10 FHD
-
-
-
-#EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 12
-https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
-
-
-
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPnXi4DFgC9BBHEr31V2zX_TmhliPnSBjIVLyiyIo-bz
-#EXTINF:-1 xui-id="589596" tvg-id="" tvg-name="SV09: MEGAVISON CANAL 19 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjx_yRusn5nJ1YBVval3aPu6U1sM8RaLrh-M5CUL1uu45xXCS7onSkTM7ry0HBf81ZHjA&usqp=CAU" group-title="EL SALVADOR",SV09: MEGAVISON CANAL 19 SD
-
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPnXi4DFgC9BBHEr31V2zX99PRdJtZi1aHar-TjQ4UCC
-#EXTINF:-1 xui-id="589595" tvg-id="" tvg-name="SV08: MEGAVISON CANAL 19 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjx_yRusn5nJ1YBVval3aPu6U1sM8RaLrh-M5CUL1uu45xXCS7onSkTM7ry0HBf81ZHjA&usqp=CAU" group-title="EL SALVADOR",SV08: MEGAVISON CANAL 19 HD
-
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OPnXi4DFgC9BBHEr31V2zX_4rCBEmlfdBcGxmOd2yo7B
-#EXTINF:-1 xui-id="589594" tvg-id="" tvg-name="SV07: MEGAVISON CANAL 19 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjx_yRusn5nJ1YBVval3aPu6U1sM8RaLrh-M5CUL1uu45xXCS7onSkTM7ry0HBf81ZHjA&usqp=CAU" group-title="EL SALVADOR",SV07: MEGAVISON CANAL 19 FHD
-
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4ODwkhti2atwU34VHdcfgRbl6EzDmjm9E9OtWiYzM_bw2
-#EXTINF:-1 xui-id="589608" tvg-id="" tvg-name="SV21: CANAL 21" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUzaq6GwEzbzx4iUpuSx7OAuJfQe0PNMW0ecFj5M1Ud8UivvRbxofZNG1YzBJEnFaw.png" group-title="EL SALVADOR",SV21: CANAL 21
-
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4ODwkhti2atwU34VHdcfgRbnQkZKwj9RcHGxPBFdAfuNt
-#EXTINF:-1 xui-id="589607" tvg-id="" tvg-name="SV20: CANAL 21 HD" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUzaq6GwEzbzx4iUpuSx7OAuJfQe0PNMW0ecFj5M1Ud8UivvRbxofZNG1YzBJEnFaw.png" group-title="EL SALVADOR",SV20: CANAL 21 HD
-
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4OLEWT8MWhOhnsRmv0J0Jh1CXeX_3fGVbKkLh1pkCJwmu
-#EXTINF:-1 xui-id="591905" tvg-id="" tvg-name="SV19: CANAL 21 FHD" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUzaq6GwEzbzx4iUpuSx7OAuJfQe0PNMW0ecFj5M1Ud8UivvRbxofZNG1YzBJEnFaw.png" group-title="EL SALVADOR",SV19: CANAL 21 FHD
-
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4ODwkhti2atwU34VHdcfgRbmQOfaJeReK2cg84PPto-nb
-#EXTINF:-1 xui-id="589604" tvg-id="" tvg-name="SV18: TIGO SPORTS ( SOLO EVENTO )  SD" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjYKoqZ3k3cK2ybpqQn_ijFwW6za50e0AIO7SFg8NQ6h6QCcchWM-p0Eo1gnS0VD6AZaCkhSE73WE6am7lnj3hwg.png" group-title="EL SALVADOR",SV18: TIGO SPORTS ( SOLO EVENTO )  SD
-
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4ODwkhti2atwU34VHdcfgRbmOPX8YozMQLR5TNgOU0cL6
-#EXTINF:-1 xui-id="589605" tvg-id="" tvg-name="SV17: TIGO SPORTS ( SOLO EVENTO )  HD" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjYKoqZ3k3cK2ybpqQn_ijFwW6za50e0AIO7SFg8NQ6h6QCcchWM-p0Eo1gnS0VD6AZaCkhSE73WE6am7lnj3hwg.png" group-title="EL SALVADOR",SV17: TIGO SPORTS ( SOLO EVENTO )  HD
-
-http://dnslivetv.online:80/play/HQ8lgem5brUpKaYPP3s4ODwkhti2atwU34VHdcfgRbkBFp1xHHn5f5DHdcf9zYjP
-#EXTINF:-1 xui-id="589603" tvg-id="" tvg-name="SV16: TIGO SPORTS ( SOLO EVENTO ) FHD" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjYKoqZ3k3cK2ybpqQn_ijFwW6za50e0AIO7SFg8NQ6h6QCcchWM-p0Eo1gnS0VD6AZaCkhSE73WE6am7lnj3hwg.png" group-title="EL SALVADOR",SV16: TIGO SPORTS ( SOLO EVENTO ) FHD
