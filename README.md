@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tv-logo="" group-title="Prueba", prueba
-http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/281483
+http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/126540
 
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 12
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
