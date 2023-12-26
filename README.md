@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 4
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364001
+
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 12
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
 
@@ -17,9 +20,6 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
 
 #EXTINF:-1 tv-logo="" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:-1 tv-logo="" group-title="Noticias", Euronews
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tv-logo="" group-title="Noticias", France 24
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
