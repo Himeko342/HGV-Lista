@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 4
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364001
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364005
 
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 12
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
