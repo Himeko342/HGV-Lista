@@ -3,6 +3,9 @@
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 4
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364005
 
+#EXTINF:-1 tv-logo="https://pbs.twimg.com/profile_images/1668745971621146626/QUF8c6Mo_400x400.jpg" group-title="El Salvador", Canal 4
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364001
+
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 6
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364000
 
