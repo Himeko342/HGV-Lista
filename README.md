@@ -38,3 +38,19 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358885
 
 #EXTINF:-1 tv-logo="" group-title="Deportes", LA LIGA TV BAR (HD)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358886
+
+#EXTINF:-1 tv-logo="" group-title="Deportes", LA LIGA TV BAR (FHD)
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358887
+
+#EXTINF:-1 tv-logo="" group-title="Deportes", DAZN LA LIGA (SD)
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358889
+
+#EXTINF:-1 tv-logo="" group-title="Deportes", DAZN LA LIGA (HD)
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358888
+
+#EXTINF:-1 tv-logo="" group-title="Deportes", DAZN LA LIGA 2 (SD)
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358890
+
+#EXTINF:-1 tv-logo="" group-title="Deportes", DAZN LA LIGA 2 (HD)
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358891
+
