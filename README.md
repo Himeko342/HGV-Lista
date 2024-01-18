@@ -1,13 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 2 TCSGO
+https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/.m3u8
+
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 4
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364005
 
-#EXTINF:-1 tv-logo="https://pbs.twimg.com/profile_images/1668745971621146626/QUF8c6Mo_400x400.jpg" group-title="El Salvador", Canal 4
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364001
+#EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 4 TCSGO
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 6
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364000
+
+#EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 6 TCSGO
+https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
 
 #EXTINF:-1 tv-logo="" group-title="El Salvador", Canal 12
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
