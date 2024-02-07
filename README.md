@@ -63,3 +63,5 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358890
 #EXTINF:-1 tv-logo="" group-title="Deportes", DAZN LA LIGA 2 (HD)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358891
 
+#EXTINF:-1 tv-logo="" group-title="Deportes", ESPN 1 HD
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/166603
