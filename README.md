@@ -65,3 +65,9 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358891
 
 #EXTINF:-1 tv-logo="" group-title="Deportes", ESPN 1 HD
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/166603
+
+#EXTINF:-1 tv-logo="" group-title="Deportes", ESPN 2 HD
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/166604
+
+#EXTINF:-1 tv-logo="" group-title="Deportes", ESPN 3 HD
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/166605
