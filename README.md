@@ -84,8 +84,7 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167736
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-argentina-us-ar.svg" group-title="Deportes", FOX SPORTS 1 AR
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/328108
 
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-2-argentina-us-ar.svg" group-title="Deportes", FOX SPORTS 2 AR
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tXfWv5UJqyXLTPuDdvPSFTqtIHxccQ-j3RiPDq1uXaIY7SwTbDCtAJs3ZDAqujwtUUvj6Y0=s117" group-title="Deportes", FOX SPORTS 2 AR
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/328109
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-3-argentina-us-ar.svg" group-title="Deportes", FOX SPORTS 3 AR
