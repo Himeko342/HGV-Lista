@@ -75,6 +75,9 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/166605
 #EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="Deportes", FOX SPORTS 1
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167734
 
+#EXTINF:-1 tv-logo="" group-title="Deportes", FOX SPORTS 1 (2)
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/328108
+
 #EXTINF:-1 tv-logo="" group-title="Deportes", FOX SPORTS 2
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167735
 
