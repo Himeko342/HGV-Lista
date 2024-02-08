@@ -9,9 +9,6 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364005
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/bfcdc0ee-0106-47e4-bb2e-e456764f147c.jpg" group-title="El Salvador", Canal 4 TCSGO
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/bfcdc0ee-0106-47e4-bb2e-e456764f147c.jpg" group-title="El Salvador", Canal 4 TCSGO 2
-https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/live-video=364992.m3u8
-
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/b3373409-cd0b-47a6-9fa2-cf185e43df7b.jpg" group-title="El Salvador", Canal 6
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364000
 
@@ -39,7 +36,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/strea
 #EXTINF:-1 tvg-logo="" group-title="Noticias", France 24
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Noticias", RT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/undefined.png" group-title="Noticias", RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", LA LIGA TV BAR (SD)
