@@ -36,7 +36,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/strea
 #EXTINF:-1 tvg-logo="" group-title="Noticias", France 24
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/undefined.png" group-title="Noticias", RT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N0w8dqc.png" group-title="Noticias", RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", LA LIGA TV BAR (SD)
