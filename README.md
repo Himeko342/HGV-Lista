@@ -81,13 +81,13 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167735
 #EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/777b383eea161b73957a45bcc559efb9.png" group-title="Deportes", FOX SPORTS 3
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167736
 
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1Mf6-iG4Evkk1fS946SlQLr8MU7YuLUf5/view?usp=drive_link" group-title="Deportes", FOX SPORTS 1 AR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WI8D5Mr.png" group-title="Deportes", FOX SPORTS 1 AR
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/328108
 
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1Rgl0rD9robImtkBkYbnudPNuvowjfPp7/view?usp=drive_link" group-title="Deportes", FOX SPORTS 2 AR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qo0MvhX.png" group-title="Deportes", FOX SPORTS 2 AR
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/328109
 
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/104L49-AhrCrJMvNYQvkhnYrIVT7xzaoS/view?usp=drive_link" group-title="Deportes", FOX SPORTS 3 AR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jxcVhmi.png" group-title="Deportes", FOX SPORTS 3 AR
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/328110
 
 
