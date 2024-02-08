@@ -72,13 +72,13 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/166604
 #EXTINF:-1 tv-logo="" group-title="Deportes", ESPN 3 HD
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/166605
 
-#EXTINF:-1 tv-logo="" group-title="Deportes", FOX SPORTS 1 (CHI)
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/120545
+#EXTINF:-1 tv-logo="" group-title="Deportes", FOX SPORTS 1
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167734
 
-#EXTINF:-1 tv-logo="" group-title="Deportes", FOX SPORTS 2 (CHI)
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/120546
+#EXTINF:-1 tv-logo="" group-title="Deportes", FOX SPORTS 2
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167735
 
-#EXTINF:-1 tv-logo="" group-title="Deportes", FOX SPORTS 3 (CHI)
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/120547
+#EXTINF:-1 tv-logo="" group-title="Deportes", FOX SPORTS 3
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167736
 
 
