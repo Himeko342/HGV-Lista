@@ -37,7 +37,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/strea
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Noticias", RT
-https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
+https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", LA LIGA TV BAR (SD)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358885
