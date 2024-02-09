@@ -39,6 +39,9 @@ https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N0w8dqc.png" group-title="Noticias", RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8M1yQvO.png" group-title="Noticias", Euronews
+https://youtu.be/O9mOtdZ-nSk
+
 #EXTINF:-1 tvg-logo="" group-title="Deportes", LA LIGA TV BAR (SD)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358885
 
