@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Noticias", France 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuxTlwK.png" group-title="Noticias", France 24
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N0w8dqc.png" group-title="Noticias", RT
