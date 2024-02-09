@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/ffd39fe9-dff2-4f43-9eb3-a4ec9c014695.jpg" group-title="El Salvador", Canal 2 TCSGO
-https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/.m3u8
+https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/bfcdc0ee-0106-47e4-bb2e-e456764f147c.jpg" group-title="El Salvador", Canal 4
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364005
 
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/bfcdc0ee-0106-47e4-bb2e-e456764f147c.jpg" group-title="El Salvador", Canal 4 TCSGO
-https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/b3373409-cd0b-47a6-9fa2-cf185e43df7b.jpg" group-title="El Salvador", Canal 6
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364000
