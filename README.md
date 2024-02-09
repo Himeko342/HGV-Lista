@@ -30,7 +30,7 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="El Salvador", TVX
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Noticias", DW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Echo7pO.jpg" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GuxTlwK.png" group-title="Noticias", France 24
@@ -39,7 +39,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/strea
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N0w8dqc.png" group-title="Noticias", RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8M1yQvO.png" group-title="Noticias", Euronews
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8M1yQvO.jpg" group-title="Noticias", Euronews
 
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", LA LIGA TV BAR (SD)
