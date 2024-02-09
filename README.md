@@ -66,8 +66,11 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/339099
 #EXTINF:-1 tvg-logo="" group-title="Deportes", DSPORTS+
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/341200
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", DSPORTS 2 (CHI)
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/120550
+#EXTINF:-1 tvg-logo="" group-title="Deportes", DSPORTS Prueba
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167731
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", DSPORTS+ Prueba
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167732
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", DAZN LA LIGA 2 (SD)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358890
