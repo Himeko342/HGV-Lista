@@ -33,8 +33,11 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlayl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MXA6M5.png" group-title="El Salvador", Canal 21 (2)
 https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="El Salvador", WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmdYYIQ.jpeg" group-title="El Salvador", WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1610540849_b700000_slen.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmdYYIQ.jpeg" group-title="El Salvador", WOW TV (2)
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1610540849_b2000000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="El Salvador", TVX
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
