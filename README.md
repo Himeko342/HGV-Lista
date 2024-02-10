@@ -16,7 +16,7 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364000
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HzeZM5L.jpeg" group-title="El Salvador", Canal 10
-https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/chunklist_w975981650_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI0IDQ6MTY6NDIgQU0maGFzaF92YWx1ZT1vR3R6TjNjNmNKY3c5TFpUNjhFR3VBPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ%3D%3D
+https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI0IDU6NDY6NDcgQU0maGFzaF92YWx1ZT1lTTlibXFma3Q0M2lEcU1XVk5LY1pnPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYkXu9y.png" group-title="El Salvador", Canal 12
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
