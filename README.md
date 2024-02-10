@@ -13,7 +13,8 @@ https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HzeZM5L.jpeg" group-title="El Salvador", Canal 10
-https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI0IDU6NDY6NDcgQU0maGFzaF92YWx1ZT1lTTlibXFma3Q0M2lEcU1XVk5LY1pnPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ==
+https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/chunklist_w202927071_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI0IDY6MzY6NTMgQU0maGFzaF92YWx1ZT00Z3pROE5WZEdUZUlIeUt3aXJmaWVRPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ%3D%3D
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYkXu9y.png" group-title="El Salvador", Canal 12
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
@@ -57,20 +58,11 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358889
 #EXTINF:-1 tvg-logo="" group-title="Deportes", DAZN LA LIGA (HD)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358888
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", DSPORTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hdv5Z5I.png" group-title="Deportes", DSPORTS
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/241669
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", DSPORTS 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXNQy7w.png" group-title="Deportes", DSPORTS 2
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/339099
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", DSPORTS+
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/341200
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", DSPORTS Prueba
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167731
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", DSPORTS+ Prueba
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167732
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", DAZN LA LIGA 2 (SD)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358890
