@@ -78,13 +78,16 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358890
 #EXTINF:-1 tvg-logo="" group-title="Deportes", DAZN LA LIGA 2 (HD)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358891
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGbut1g.png" group-title="Deportes", ESPN DEPORTES
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167728
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNL3mhf.png" group-title="Deportes", ESPN 1 HD
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/166603
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0bOU1JU.png" group-title="Deportes", ESPN 2 HD
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/166604
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B6ebBGr.png" group-title="Deportes", ESPN 3 HD
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/166605
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jVcmGGT.png" group-title="Deportes", FOX SPORTS 1
