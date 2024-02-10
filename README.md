@@ -43,32 +43,29 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8M1yQvO.jpg" group-title="Noticias", Euronews
 
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", LA LIGA TV BAR (SD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NdPNlR.jpeg" group-title="Deportes", LA LIGA TV BAR (SD)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358885
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", LA LIGA TV BAR (HD)
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358886
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", LA LIGA TV BAR (FHD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NdPNlR.jpeg" group-title="Deportes", LA LIGA TV BAR (HD)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358887
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", DAZN LA LIGA (SD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z5cIQUP.png" group-title="Deportes", DAZN LA LIGA (SD)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358889
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", DAZN LA LIGA (HD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z5cIQUP.png" group-title="Deportes", DAZN LA LIGA (HD)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358888
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIpa2xB.png" group-title="Deportes", DAZN 2
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358890
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIpa2xB.png" group-title="Deportes", DAZN 2 (Op. 2)
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358891
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hdv5Z5I.png" group-title="Deportes", DSPORTS
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/241669
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HXNQy7w.png" group-title="Deportes", DSPORTS 2
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/339099
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", DAZN LA LIGA 2 (SD)
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358890
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", DAZN LA LIGA 2 (HD)
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358891
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JGbut1g.png" group-title="Deportes", ESPN DEPORTES
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167728
