@@ -9,9 +9,6 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364005
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5heE3Z.png" group-title="El Salvador", Canal 4 TCSGO
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M5wpiEf.png" group-title="El Salvador", Canal 6
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364000
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M5wpiEf.png" group-title="El Salvador", Canal 6 TCSGO
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
 
@@ -24,23 +21,14 @@ https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABOOvwi.png" group-title="El Salvador", Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABOOvwi.png" group-title="El Salvador", Canal 19 (2)
-https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MXA6M5.png" group-title="El Salvador", Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8MXA6M5.png" group-title="El Salvador", Canal 21 (2)
-https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmdYYIQ.jpeg" group-title="El Salvador", WOW TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mKNTxwd.png" group-title="El Salvador", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1610540849_b700000_slen.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmdYYIQ.jpeg" group-title="El Salvador", WOW TV (2)
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1610540849_b2000000_slen.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="El Salvador", TVX
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Echo7pO.jpg" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
