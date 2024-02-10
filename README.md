@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/ffd39fe9-dff2-4f43-9eb3-a4ec9c014695.jpg" group-title="El Salvador", Canal 2 TCSGO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdiFLG3.png" group-title="El Salvador", Canal 2 TCSGO
 https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5heE3Z.png" group-title="El Salvador", Canal 4
@@ -14,6 +14,9 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/364000
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M5wpiEf.png" group-title="El Salvador", Canal 6 TCSGO
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Canal 10
+https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w2022379228_b978000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI0IDQ6MDI6NDggQU0maGFzaF92YWx1ZT1BOW5GZCtCbG05aE4wbG5qNDIvQXBRPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYkXu9y.png" group-title="El Salvador", Canal 12
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
