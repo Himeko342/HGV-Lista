@@ -96,6 +96,9 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167735
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kVG7rNB.png" group-title="Deportes", FOX SPORTS 3
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167736
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CQryV9T.jpeg" group-title="Deportes", FOX SPORTS PREMIUM
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167737
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WI8D5Mr.png" group-title="Deportes", FOX SPORTS 1 (AR)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/328108
 
@@ -104,6 +107,9 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/328109
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxcVhmi.png" group-title="Deportes", FOX SPORTS 3 (AR)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/328110
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CQryV9T.jpeg" group-title="Deportes", FOX SPORTS PREMIUM AR
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/328111
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", FOX SPORTS 1 (CHI)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/120545
@@ -117,6 +123,8 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/120547
 #EXTINF:-1 tvg-logo="" group-title="Deportes", FOX SPORTS 1 (PE)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/341805
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CQryV9T.jpeg" group-title="Deportes", FOX SPORTS PREMIUM (PE)
+http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/342033
 
 
 
