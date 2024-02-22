@@ -33,16 +33,16 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CvsFGoDX_j-GfyZds01yGO1E_9e
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NQdu9D0.jpg" group-title="Noticias", DW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NQdu9D0.jpg" group-title="NOTICIAS", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y0oTmK1.png" group-title="Noticias", France 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y0oTmK1.png" group-title="NOTICIAS", France 24
 https://www.youtube.com/embed/Y-IlMeCCtIg?si=-bR8igmRHqiAN8A6
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KPGxABr.png" group-title="Noticias", RT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KPGxABr.png" group-title="NOTICIAS", RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RCzNWFW.jpg" group-title="Noticias", Euronews
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCzNWFW.jpg" group-title="NOTICIAS", Euronews
 
 
 
@@ -174,4 +174,125 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/10-hls/live-media.
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", 
+#EXTINF:-1 tvg-logo="" group-title="CIENCIA Y CULTURA", EUROPA EUROPA
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEUROPAEUROPA_stream_gf&_cdn_session=1780204060&_cdn_timestamp=1708591923&_cdn_token=bb7d9aea8d6dc54216c6430e7bbc891b912144e5
+
+#EXTINF:-1 tvg-logo="" group-title="CIENCIA Y CULTURA", DISCOVERY CHANNEL
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/10-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=1783455883&_cdn_timestamp=1708592311&_cdn_token=9f6a8632fd4d0bf00b4e9d1aa96cca97bfa85c7a&duration=4440&start=1708567680
+
+#EXTINF:-1 tvg-logo="" group-title="CIENCIA Y CULTURA", HISTORY CHANNEL
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_session=1778836885&_cdn_timestamp=1708592441&_cdn_token=699ce5ef5ee3ae5d1491b3a400cab09a58fe1995
+
+#EXTINF:-1 tvg-logo="" group-title="CIENCIA Y CULTURA", HISTORY 2
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_session=1783462659&_cdn_timestamp=1708592480&_cdn_token=92da8265ebc6f0c346a5a5ce3da6c7d62a1c9f5e
+
+#EXTINF:-1 tvg-logo="" group-title="CIENCIA Y CULTURA", NATGEO
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/NATGEO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_session=1783465075&_cdn_timestamp=1708592563&_cdn_token=0382a5ac74c5c76b083ecd377eb09698369894d6
+
+#EXTINF:-1 tvg-logo="" group-title="CIENCIA Y CULTURA", ANIMAL PLANET
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=1780225508&_cdn_timestamp=1708592589&_cdn_token=4b2b46958027118f7786c17abe365890e8c87393
+
+#EXTINF:-1 tvg-logo="" group-title="CIENCIA Y CULTURA", LOVE NATURE
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LOVENATURE/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLOVENATURE_stream_0s&_cdn_session=1778842333&_cdn_timestamp=1708592615&_cdn_token=309e621cc626eb45cee33dcc567948c5fe8b6817
+
+#EXTINF:-1 tvg-logo="" group-title="CIENCIA Y CULTURA", DISCOVERY SCIENCE
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_session=1783468683&_cdn_timestamp=1708592638&_cdn_token=2790f9407d485306d9e9806bdec5200e75791e3a
+
+#EXTINF:-1 tvg-logo="" group-title="CIENCIA Y CULTURA", DISCOVERY TURBO
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTURBO_stream_kb&_cdn_session=1780229132&_cdn_timestamp=1708592679&_cdn_token=f05eda2325fad6003934a4c479181d44bbc81e8c
+
+#EXTINF:-1 tvg-logo="" group-title="CIENCIA Y CULTURA", DISCOVERY THEATER
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTHEATER/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTHEATER_stream_ss&_cdn_session=1778846853&_cdn_timestamp=1708592701&_cdn_token=4c782c36a20303a7fdda0a8d68ab9c022bf16900
+
+#EXTINF:-1 tvg-logo="" group-title="CIENCIA Y CULTURA", DISCOVERY WORLD
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYWORLD/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYWORLD_stream_tr&_cdn_session=1783473507&_cdn_timestamp=1708592724&_cdn_token=75c49448b2f5adb4edbcddee0448d695c174e972
+
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS", PASIONES
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PASIONES/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=1783478507&_cdn_timestamp=1708592827&_cdn_token=328eec60141dcb71e158664230a1f76776d8e37b
+
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS", TELEMUNDO
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=1780238788&_cdn_timestamp=1708592879&_cdn_token=b2cd2e6805b883dac06a0a771350a3a94b4df0be
+
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS", UNIVISION
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/UNIVISION/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVISION_stream_ft&_cdn_session=1778857125&_cdn_timestamp=1708592910&_cdn_token=0b86d13693a3862048e013af0c347efb008e7368
+
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS", CORAZON
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=1783481915&_cdn_timestamp=1708592933&_cdn_token=9525bea2a0f7329fc99f8f04d65b9f6a456def8f
+
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS", CANAL DE LAS ESTRELLAS
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CHESTRELLAS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCHESTRELLAS_stream_8c&_cdn_session=1780241076&_cdn_timestamp=1708592965&_cdn_token=b9156017ab8aad88d3aaaf621c1c3766265ac54e
+
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS", TELENOVELAS
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TELENOVELAS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOVELAS_stream_ak&_cdn_session=1778859285&_cdn_timestamp=1708592986&_cdn_token=c9ab01cd923726f713e62e9c0b5237bfff67b08a
+
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS", KANAL D
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KANALD/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=1778864365&_cdn_timestamp=1708593192&_cdn_token=65ea4e64078a7675fa14e62e24ebffa10a67b6cb
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", HOME & HEALTH
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=1783489995&_cdn_timestamp=1708593250&_cdn_token=e403e6c67c000c417d17b3b28f87b4b4d59e2b1d
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", TLC
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TLC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=1783491627&_cdn_timestamp=1708593320&_cdn_token=9c42bd7a090fa42a8487952a07a586c4e7a8426a
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", MAS CHIC
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/MASCHIC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMASCHIC_stream_pl&_cdn_session=1778868437&_cdn_timestamp=1708593357&_cdn_token=15c301008d09bc16c1fc615fa6edaeed97a95cd2
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", GOURMET
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/GOURMET/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_sj&_cdn_session=1783494275&_cdn_timestamp=1708593399&_cdn_token=4787cd32d03574843af6950fb45ac75178c9ba2a
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", FOOD NETWORK
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=1783495003&_cdn_timestamp=1708593420&_cdn_token=24a297bd02b8d699d35c3f3abf98e5e3d72b4c28
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", HGTV
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/HGTV/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHGTV_stream_yy&_cdn_session=1780254172&_cdn_timestamp=1708593444&_cdn_token=25073f8918e2eb27a2accaf37b230a1d912587c0
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", E!
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=1778872509&_cdn_timestamp=1708593469&_cdn_token=4dccb7ad00ed1585aaacf364a08dbca1f980be35
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISTRITOCOMEDIA/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISTRITOCOMEDIA_stream_0o&_cdn_session=1780256116&_cdn_timestamp=1708593515&_cdn_token=a5f40566bf2964500babf178ce9c313f6142c7ae
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", MUNDO
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AZMUNDO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZMUNDO_stream_6q&_cdn_session=1778874189&_cdn_timestamp=1708593535&_cdn_token=895d1b76d4c93ba08f8f7b0390570b9ad66b6e1e
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", CLIC
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AZCLIC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCLIC_stream_ln&_cdn_session=1778874773&_cdn_timestamp=1708593555&_cdn_token=cdd918ff565416da959e9e57cc5142f1e8c7fb6e
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", DISCOVERY KIDS
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCKIDS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCKIDS_stream_fa&_cdn_session=1783500203&_cdn_timestamp=1708593595&_cdn_token=48f59602e488f9810f1be263694285fbe3c84ac5
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", DISNEY JUNIOR
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_session=1783502251&_cdn_timestamp=1708593676&_cdn_token=9ed62d88ec0ce19d26e4f0e6d6b0b63c6dc02fab
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", PLIM PLIM
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PLIMPLIM/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPLIMPLIM_stream_63&_cdn_session=1778878373&_cdn_timestamp=1708593700&_cdn_token=f9d6c40d47db3c9c2055395df463ddbdd4e83039
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", NICK JR 
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/NICKJR/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=1783503811&_cdn_timestamp=1708593729&_cdn_token=1f825ce670135f539da51f0b43f88db700b568b0
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", NICKELODEON
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=1778880621&_cdn_timestamp=1708593783&_cdn_token=932715e079b5a968e5f2d277d3093f589ecef750
+
+#EXTINF:-1 tvg-logo="" group-title="EINFANTILES", DISNEY CHANNEL
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_session=1783509403&_cdn_timestamp=1708593940&_cdn_token=4d9d1aff89e3581635552b08e8671348a89cec8f
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", BITME
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/BITME/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBITME_stream_n7&_cdn_session=1783521787&_cdn_timestamp=1708594318&_cdn_token=6f4bcc4e36cf954754ce12083be47c2a0a2c08a2
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS", FOX NEWS
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/FOXNEWS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXNEWS_stream_kw&_cdn_session=1780295684&_cdn_timestamp=1708594868&_cdn_token=c0e2fcb09517d57a25410b01717ab1f3a02042d0
+
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS", NOTICIAS CARACOL
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=1783539611&_cdn_timestamp=1708594915&_cdn_token=8746b3e10719dffe254190df02439c971a27eaf9
+
+
+
+
