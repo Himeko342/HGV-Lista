@@ -38,7 +38,7 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CvoFfzA-NgDG62XYUpx8vAbo30T
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y0oTmK1.png" group-title="Noticias", France 24
-
+https://www.youtube.com/embed/Y-IlMeCCtIg?si=-bR8igmRHqiAN8A6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KPGxABr.png" group-title="Noticias", RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
