@@ -293,6 +293,37 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/FOXNEWS/10-hls/live-media.m3u
 #EXTINF:-1 tvg-logo="" group-title="NOTICIAS", NOTICIAS CARACOL
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=1783539611&_cdn_timestamp=1708594915&_cdn_token=8746b3e10719dffe254190df02439c971a27eaf9
 
+#EXTINF:-1 tvg-logo="" group-title="MÚSICA Y REALITIES", 
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/MTV/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMTV_stream_3f&_cdn_session=1778917645&_cdn_timestamp=1708595035&_cdn_token=56852f47b23d8af4d3f2edbe4a3ceca3f69bb3b4
 
+#EXTINF:-1 tvg-logo="" group-title="MÚSICA Y REALITIES", NICKMUSIC
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NICKMUSIC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKTOONS_stream_vk&_cdn_session=1780303060&_cdn_timestamp=1708595143&_cdn_token=47a0295039bb9410663adfec04018054100b98fd
+
+#EXTINF:-1 tvg-logo="" group-title="MÚSICA Y REALITIES", KARIBEÑA
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dkaribena_stream_4z&_cdn_session=1783546211&_cdn_timestamp=1708595163&_cdn_token=acee9b8a7b0e8ebba9caa5890761b8769a4f03ba
+
+#EXTINF:-1 tvg-logo="" group-title="MÚSICA Y REALITIES", TELEHIT LATINO
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TELEHITLATINO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEHITLATINO_stream_jm&_cdn_session=1783546699&_cdn_timestamp=1708595183&_cdn_token=eac8f990429e89e13ba0b4d32302b7a77f5b7ffb
+
+#EXTINF:-1 tvg-logo="" group-title="MÚSICA Y REALITIES", TELEHIT MUSICA
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TELEHITMUSICA/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEHITMUSICA_stream_21&_cdn_session=1778922165&_cdn_timestamp=1708595202&_cdn_token=526758fa8845ac2b3c09da0e5b584e26d6211401
+
+#EXTINF:-1 tvg-logo="" group-title="MÚSICA Y REALITIES", BANDAMAX
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/BANDAMAX/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBANDAMAX_stream_jb&_cdn_session=1780305388&_cdn_timestamp=1708595232&_cdn_token=7b69164901fd0d8896479d687a1b44e45ca6fc5c
+
+#EXTINF:-1 tvg-logo="" group-title="INTERNACIONALES", TELEFE
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TELEFE/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=1783548827&_cdn_timestamp=1708595263&_cdn_token=42fbf963747a4cbee9ff9070608cd0ef2ae339fe
+
+#EXTINF:-1 tvg-logo="" group-title="INTERNACIONALES", TRECE ARGENTINA
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=1780307532&_cdn_timestamp=1708595327&_cdn_token=63bbe55a1f68e9e7a170d195d083962e504e0767
+
+#EXTINF:-1 tvg-logo="" group-title="INTERNACIONALES", IVC NETWORKS
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/IVCNETWORKS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DIVCNETWORKS_stream_fl&_cdn_session=1783550947&_cdn_timestamp=1708595354&_cdn_token=1b2bf26dab7df73d8705f94a70011fbf3c55391c
+
+#EXTINF:-1 tvg-logo="" group-title="INTERNACIONALES", ANTENA 3
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ANTENA3/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANTENA3_stream_9o&_cdn_session=1778926437&_cdn_timestamp=1708595390&_cdn_token=3baff78eee731abf3fae1fccd10ea45b4488c9a2
+
+#EXTINF:-1 tvg-logo="" group-title="INTERNACIONALES", ECUADOR TV
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=1778928333&_cdn_timestamp=1708595463&_cdn_token=6f66d22e811a846251cd1b78697bbf0e5960937c
 
 
