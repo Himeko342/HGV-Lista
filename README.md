@@ -15,7 +15,6 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIQmjY8.jpg" group-title="El Salvador", Canal 10
 https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/chunklist_w202927071_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI0IDY6MzY6NTMgQU0maGFzaF92YWx1ZT00Z3pROE5WZEdUZUlIeUt3aXJmaWVRPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ%3D%3D
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n66Vkn8.png" group-title="El Salvador", Canal 12
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
 
@@ -29,6 +28,7 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlayl
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1610540849_b700000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="El Salvador", TVX
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CvoFfzA-NgDG62XYUpx8vAbo30TCFIpQU-0nxx59QRkDrSjuaCG5e6yf2fpOEi8AzceuzWo1aZun3Uvy1NB1AfWYtXL1qxavdqVVsY8TH2hVGFzUwP2FjC275oP3MdO8rS3cBSQvUxziVm3vuTnyUGoxRN3AQRAi6SA7xnlo2l4dS8UX_F5SQNfWvhkLakLEe73hBoOeJ-lTt1sk4FwL0JVqP24hkC9K9vTF31I5d2wMjvin8fGcyWIcRs5jZFL_RfSHnZf_wWmL3J7CA-mPHXi12H1GBGWHMTG9owqKRCwUUUiLMPyu6JALTAENrLLOxLdw7ACrHg2yX_bpKF3v8W2cj2OxjykfeilhCaAGi9YvT8W7gbp50vGMfLxCfJbJfi0IpMptmUBLwQDZh-NkwHj2GzB1mB7OoX6s8jvNwlOJ2gZhlyQNp-DwBi77Pt5QCLQf-x0b47WpyOq92uXDeP_vKow0jYzRJ8_RCPxlsxgL3ZJY-kKM63lxzccgK2SEHUlFZMgicKUdQvSqCy6ZDVPl_3qkYYE2vaEMlrDHfQYb7jdXBCKoVDQJbA67h59Tcf2du0jyTCN1LRLVsfIVPyUBoiH-HtRxmJeEfUxjr991_WX_vziJ91RKjdAS_cog1LVdqKyDe3bFyCEE-_7dOBNFLcIdmGpBKnLiaTjm9KUU98ngwJMPW1X41z2NVbl6JmXskDdA5mkaun4Yo9--XdBHC_Iay7_vr6l4NWKJ-LLGu3BDBgFNh_arGMSh4bigcbiYeo5KLegG9uh83k4pZ4eTwPOYYeDR8HN1SqW48ljMjaUZdqCFlB9qDdLigMJ1VnqP43qvXn9CmQzDJktto0KsGZCCGtTIboWzh0AMxTWWlGeCJX6k_gS0CyQkOEIHZGHrOrYlf2VddbqYh4f2HHw8uGS7wORkU17nQYU5X2KEWh9c9dwSlfYJ29h_OMnlw6O7FyP5b6rnMa1c0xoMu1ACIkZM5HwH8Glw70ra9aT331Ws4yc7nD0nC9COGgxyA63G2CqaGDoCa_sgASoJdXMtZWFzdC0xMJkH.m3u8
 
 
 
