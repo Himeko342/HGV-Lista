@@ -43,10 +43,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/strea
 https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCzNWFW.jpg" group-title="NOTICIAS", Euronews
-
-
-
-
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3FffJqR.jpeg" group-title="Deportes", LA LIGA TV BAR (SD)
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/358885
