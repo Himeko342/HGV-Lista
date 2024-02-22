@@ -80,7 +80,7 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/328111
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOLNCZW.png" group-title="Deportes", ESPN 1
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=1778470077&_cdn_timestamp=1708580276&_cdn_token=2a6299823493958087fa4f343d38a1eea03dd966
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_meta=userID%3D1585142486%2CdeviceID%3D64366597&_cdn_session=1784218763&_cdn_timestamp=1708653535&_cdn_token=815e5f1aa58b2f9b5a4b2fb9584afb412a47bf07
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5suMqQW.png" group-title="Deportes", ESPN 2
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=1778481949&_cdn_timestamp=1708580901&_cdn_token=60399e075a0dde8507179ac2986f846f9709f694
