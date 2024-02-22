@@ -70,69 +70,28 @@ http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/339099
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JGbut1g.png" group-title="Deportes", ESPN DEPORTES
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167728
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FNL3mhf.png" group-title="Deportes", ESPN 1 HD
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/166603
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0bOU1JU.png" group-title="Deportes", ESPN 2 HD
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/166604
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B6ebBGr.png" group-title="Deportes", ESPN 3 HD
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/166605
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jVcmGGT.png" group-title="Deportes", FOX SPORTS 1
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167734
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61H2GFs.png" group-title="Deportes", FOX SPORTS 2
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167735
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kVG7rNB.png" group-title="Deportes", FOX SPORTS 3
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167736
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CQryV9T.jpeg" group-title="Deportes", FOX SPORTS PREMIUM
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/167737
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WI8D5Mr.png" group-title="Deportes", FOX SPORTS 1 (AR)
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/328108
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qo0MvhX.png" group-title="Deportes", FOX SPORTS 2 (AR)
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/328109
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jxcVhmi.png" group-title="Deportes", FOX SPORTS 3 (AR)
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/328110
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CQryV9T.jpeg" group-title="Deportes", FOX SPORTS PREMIUM AR
 http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/328111
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", FOX SPORTS 1 (CHI)
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/120545
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", FOX SPORTS 2 (CHI)
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/120546
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", FOX SPORTS 3 (CHI)
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/120547
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", FOX SPORTS 1 (PE)
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/341805
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CQryV9T.jpeg" group-title="Deportes", FOX SPORTS PREMIUM (PE)
-http://streamprotv.net:8008/gtv801xx/DSBTAFmms82q/342033
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FNL3mhf.png" group-title="Deportes", ESPN 1
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=1778470077&_cdn_timestamp=1708580276&_cdn_token=2a6299823493958087fa4f343d38a1eea03dd966
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FNL3mhf.png" group-title="Deportes", ESPN 12
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_meta=userID%3D1585142486%2CdeviceID%3D64366597&_cdn_session=1778470077&_cdn_timestamp=1708580276&_cdn_token=e96e28791afd5a66549e5d64fd851b4915474a3f
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=1778481949&_cdn_timestamp=1708580901&_cdn_token=60399e075a0dde8507179ac2986f846f9709f694
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FNL3mhf.png" group-title="Deportes", ESPN 2
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN3/10-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=1783111115&_cdn_timestamp=1708581365&_cdn_token=8a8dbbc161920c1af92266269b16778a853f92ad&duration=7200&start=1708556400
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FNL3mhf.png" group-title="Deportes", ESPN 3
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 4
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN4/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN4_stream_jg&_cdn_session=1779878068&_cdn_timestamp=1708581458&_cdn_token=151285ac002a52b2919d4988587095e08a8876d4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FNL3mhf.png" group-title="Deportes", ESPN 4
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 5
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN5/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN5_stream_t7&_cdn_session=1779881252&_cdn_timestamp=1708581568&_cdn_token=9eb959462b61718b2c7495fe82e83f7aad4dfe0a
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FNL3mhf.png" group-title="Deportes", ESPN 5
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 6
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN6/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN6_stream_0n&_cdn_session=1779881804&_cdn_timestamp=1708581590&_cdn_token=d63e12e174044d8d61e820365ded0aa503c0747b
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FNL3mhf.png" group-title="Deportes", ESPN 6
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FNL3mhf.png" group-title="Deportes", ESPN 7
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 7
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN7/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN7_stream_hu&_cdn_session=1779882796&_cdn_timestamp=1708581622&_cdn_token=40e1375ab21079c1d13c43f6477d61ef9a195ae8
