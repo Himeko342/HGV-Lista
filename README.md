@@ -102,3 +102,76 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN6/10-hls/live-media.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xCOVlqf.png" group-title="Deportes", ESPN 7
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN7/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN7_stream_hu&_cdn_session=1779882796&_cdn_timestamp=1708581622&_cdn_token=40e1375ab21079c1d13c43f6477d61ef9a195ae8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", SONY
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/SONY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=1783346547&_cdn_timestamp=1708588956&_cdn_token=53b310d332f6d4420b80dfe2aa92396f989005f6
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", STAR CHANNEL
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=1780085020&_cdn_timestamp=1708588292&_cdn_token=ae5e51cb0e2aaabc1a3d592b061d0cd2e9a86e39
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", AXN
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AXN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=1783336819&_cdn_timestamp=1708588697&_cdn_token=7972f9407a70a1eb4c50e23d0b4a77c9be8819dc
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", CINECANAL
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCINECANALHD_stream_1m&_cdn_session=1780108404&_cdn_timestamp=1708588974&_cdn_token=bae453c04fdb8adc1c59d1ec59dcd89f2e18fef1
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", UNIVERSAL
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=1780117244&_cdn_timestamp=1708589232&_cdn_token=81943d4ab168148f37d535e14687f2e205948247
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", GOLDEN EDGE
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/GOLDENEDGE/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENEDGE_stream_wi&_cdn_session=1783360035&_cdn_timestamp=1708589361&_cdn_token=34949904661b13b020a235c0af72cf1754be5c99
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", GOLDEL LATINO
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENLATINO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENLATINO_stream_br&_cdn_session=1780122028&_cdn_timestamp=1708589388&_cdn_token=232a86c470c931d31ff7460c3cbe0998f7f28a31
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", FX
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FX/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=1780136444&_cdn_timestamp=1708589951&_cdn_token=266192ecd5e9b19ec0e909f0513bf7436a13cb68
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", SONY MOVIES
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=1783376395&_cdn_timestamp=1708589983&_cdn_token=c69bec3cdc40e42cff908aafd64fd453e772103b
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", A&E
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=1780141172&_cdn_timestamp=1708590111&_cdn_token=d56c8bc4463ac797c39cc932a12e350fe13befc1
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", AMC
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=1778759061&_cdn_timestamp=1708590182&_cdn_token=7b7ae82e0b1134134c81252c7c495b5ce630f4be
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", PARAMOUNT CHANNEL
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=1783383787&_cdn_timestamp=1708590228&_cdn_token=65853ef5bcc0fd3111fbcdcb43a326373d223b0d
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", CLOVER CHANNEL
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CloverCh/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCloverCh_stream_2e&_cdn_session=1780182668&_cdn_timestamp=1708591380&_cdn_token=4fa6fd434665e867bd4d9047ddc74556117b6737
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", STUDIO UNIVERSAL
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=1778800469&_cdn_timestamp=1708591436&_cdn_token=7a4b3da8efa9406ebde7d63500d75c11dba541a0
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", FILMS & ARTS
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=1778807605&_cdn_timestamp=1708591585&_cdn_token=999318be38dafe2a58575e0bd0847483ab6ce1ed
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", LIFE TIME
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LIFETIME/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLIFETIME_stream_sl&_cdn_session=1780194524&_cdn_timestamp=1708591652&_cdn_token=3a5cc346d37bada1eef376690b8bd361b6e50974
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", ID
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=1780195356&_cdn_timestamp=1708591678&_cdn_token=074e3d18c19576521effcf45a0dd54dd10104ce1
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", DE PELICULA
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DEPELICULA/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDEPELICULA_stream_7v&_cdn_session=1778811733&_cdn_timestamp=1708591697&_cdn_token=d4a8e27fbf1b5857efb9ec4ee2241b8fa93d3421
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", USA
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/USA/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSA_stream_97&_cdn_session=1783436907&_cdn_timestamp=1708591732&_cdn_token=247e6a69ec325167aa86d8ee64b63d8d00ca4b5a
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", CINEMA INOLVIDABLE
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCINEMA_stream_eg&_cdn_session=1778815069&_cdn_timestamp=1708591784&_cdn_token=060890a2aab1fe1f6a1fd9d9097893c60d6a1117
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", DREAMWORKS
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=1783440099&_cdn_timestamp=1708591813&_cdn_token=2c3a636716839e099d0a6085c2b66186381782c8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Series y Peliculas", 
