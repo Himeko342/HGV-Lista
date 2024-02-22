@@ -293,7 +293,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/FOXNEWS/10-hls/live-media.m3u
 #EXTINF:-1 tvg-logo="" group-title="NOTICIAS", NOTICIAS CARACOL
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=1783539611&_cdn_timestamp=1708594915&_cdn_token=8746b3e10719dffe254190df02439c971a27eaf9
 
-#EXTINF:-1 tvg-logo="" group-title="MÚSICA Y REALITIES", 
+#EXTINF:-1 tvg-logo="" group-title="MÚSICA Y REALITIES", MTV
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/MTV/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMTV_stream_3f&_cdn_session=1778917645&_cdn_timestamp=1708595035&_cdn_token=56852f47b23d8af4d3f2edbe4a3ceca3f69bb3b4
 
 #EXTINF:-1 tvg-logo="" group-title="MÚSICA Y REALITIES", NICKMUSIC
