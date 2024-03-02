@@ -46,8 +46,5 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Girona vs Rayo
-https://hls.streambtw.com/live/stream_6.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Girona vs Rayo
-https://hd-nfl.site/live/embed.php?ch=ch27
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX DEPORTES
+https://blue-midas.fubo.tv/v1/manifest/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-blue-live/d70cadea-124d-40cc-9f77-32434442a052/1.m3u8
