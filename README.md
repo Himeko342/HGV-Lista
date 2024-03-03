@@ -47,4 +47,4 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX DEPORTES
-https://blue-midas.fubo.tv/v1/manifest/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-blue-live/d70cadea-124d-40cc-9f77-32434442a052/1.m3u8
+https://blue-midas.fubo.tv/v1/manifest/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-blue-live/4bab7543-ef30-4eb1-ba39-8f541a384140/0.m3u8
