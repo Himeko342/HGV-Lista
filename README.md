@@ -47,4 +47,4 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Barca vs Mallorca
-https://whipwhip.xyz/str.php?id=live106
+https://64ajhu8whg3tsek2.cdnreinforce.net:8443/hls/cwdjkhlh9g.m3u8?s=nwzwfgFVw1imL13StSYBgA&e=1709947436
