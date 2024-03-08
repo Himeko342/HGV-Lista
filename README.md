@@ -46,5 +46,5 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX DEPORTES
-https://blue-midas.fubo.tv/v1/manifest/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-blue-live/4bab7543-ef30-4eb1-ba39-8f541a384140/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Barca vs Mallorca
+https://whipwhip.xyz/str.php?id=live106
