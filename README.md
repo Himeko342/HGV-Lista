@@ -44,5 +44,6 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Barca vs Mallorca
-http://4ksuper.live:80/Michael88/Michael88/1470653
+http://4ksuper.live:80/Michael88/Michael88/926128
+
 
