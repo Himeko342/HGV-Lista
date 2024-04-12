@@ -6,7 +6,7 @@ https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bFpRhUF.png" group-title="El Salvador", Canal 4 TCSGO
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bFpRhUF.png" group-title="El Salvador", Canal 4 TCSGO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bFpRhUF.png" group-title="El Salvador", Canal 4
 http://4ksuper.live:80/Michael88/Michael88/111710
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWHdDiZ.png" group-title="El Salvador", Canal 6 TCSGO
