@@ -13,7 +13,7 @@ http://4ksuper.live:80/Michael88/Michael88/111710
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIQmjY8.jpg" group-title="El Salvador", Canal 10
-https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/chunklist_w202927071_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI0IDY6MzY6NTMgQU0maGFzaF92YWx1ZT00Z3pROE5WZEdUZUlIeUt3aXJmaWVRPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ%3D%3D
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n66Vkn8.png" group-title="El Salvador", Canal 12
 
@@ -28,6 +28,7 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlayl
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1610540849_b700000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="El Salvador", TVX
+
 
 
 
@@ -49,11 +50,5 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", LIGA CAMPEONES UHD
-http://4ksuper.live:80/Michael88/Michael88/1471377
-
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Barca vs Mallorca
-http://4ksuper.live:80/Michael88/Michael88/926128
-
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
 
