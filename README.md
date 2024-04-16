@@ -46,6 +46,13 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", LIGA CAMPEONES UHD
+http://4ksuper.live:80/Michael88/Michael88/1471377
+
+
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Barca vs Mallorca
 http://4ksuper.live:80/Michael88/Michael88/926128
 
