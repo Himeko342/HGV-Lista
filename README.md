@@ -16,7 +16,7 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n66Vkn8.png" group-title="El Salvador", Canal 12
-
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1I9y14.png" group-title="El Salvador", Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
