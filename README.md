@@ -9,7 +9,7 @@ https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWHdDiZ.png" group-title="El Salvador", Canal 6 TCSGO
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AWHdDiZ.png" group-title="El Salvador", Televisión Legislativa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sdhrG0y.png" group-title="El Salvador", Televisión Legislativa
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIQmjY8.jpg" group-title="El Salvador", Canal 10
@@ -50,8 +50,6 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX
-http://stream.flynetwifi.com:1936/live/mobile-108/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX
 
