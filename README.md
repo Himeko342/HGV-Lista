@@ -13,7 +13,7 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIQmjY8.jpg" group-title="El Salvador", Canal 10
-
+https://5fc584f3f19c9.streamlock.net/tves/smil:tves.smil/chunklist_w1258970053_b478000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n66Vkn8.png" group-title="El Salvador", Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
