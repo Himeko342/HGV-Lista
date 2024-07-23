@@ -52,7 +52,5 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN DEPORTES
-http://speed-gaz.xyz:80/cym8wjBBQNv2/eTM5Q6VX1x/192305
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+https://deportes.sdfgnksbounce.com:8080/MTkwLjg2LjEwNC4xMTg=/21_.m3u8?token=x5d9Tmg0ECJ6avxPEm5hLg&expires=1721719260
 
