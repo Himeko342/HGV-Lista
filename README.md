@@ -32,14 +32,7 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w16105408
 
 
 #EXTINF:-1 tvg-logo="" group-title="El Salvador", DISNEY 1
-https://live-ftc-sa-west-2.media.dssott.com/gru1/va01/disneyplus/event/2024/08/13/Marcos_Giron_USA_vs_Sebas_20240813_1723555736514/ctr-all-sliding.m3u8?v=1&hash=0a471d664235479c99791d358fa6b94bb525a0d6&CMCD=bl%3D0%2Cbs%2Cdl%3D0%2Cot%3Dm%2Cpr%3D0%2Csf%3Dh%2Cst%3Dv%2Csu
-
-#EXTINF:-1 tvg-logo="" group-title="El Salvador", DISNEY 2
-https://live-ftc-sa-west-2.media.dssott.com/gru1/va01/disneyplus/event/2024/08/13/Marcos_Giron_USA_vs_Sebas_20240813_1723555736514/cmaf-cenc-ctr-1200K/1200_slide.m3u8?CMCD=bl%3D0%2Cbs%2Cdl%3D0%2Cot%3Dm%2Cpr%3D0%2Csf%3Dh%2Cst%3Dv%2Csu
-
-#EXTINF:-1 tvg-logo="" group-title="El Salvador", DISNEY 2
-https://live-ftc-sa-west-2.media.dssott.com/gru1/va01/disneyplus/event/2024/08/13/Marcos_Giron_USA_vs_Sebas_20240813_1723555736514/audio-1-64K/64_slide.m3u8?CMCD=bl%3D0%2Cbs%2Cdl%3D0%2Cot%3Dm%2Cpr%3D0%2Csf%3Dh%2Cst%3Dv%2Csu
-
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(IBERO)/manifest.mpd?ip=190.121.84.38&exp=1781359637&hmac=5185a3023338be604f71146befd3d49e55e2de07
 
 
 
