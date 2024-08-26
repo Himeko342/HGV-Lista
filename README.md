@@ -50,6 +50,5 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-logo="" group-title="El Salvador", DISNEY 1
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(IBERO)/manifest.mpd?ip=190.121.84.38&exp=1781359637&hmac=5185a3023338be604f71146befd3d49e55e2de07
-
+https://disney.playback.edge.bamgrid.com/widevine/v1/channel/obtain-license
 
