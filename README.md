@@ -31,12 +31,6 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w16105408
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="El Salvador", DISNEY 1
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(IBERO)/manifest.mpd?ip=190.121.84.38&exp=1781359637&hmac=5185a3023338be604f71146befd3d49e55e2de07
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQdu9D0.jpg" group-title="NOTICIAS", DW
@@ -55,7 +49,7 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", DISNEY 1
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(IBERO)/manifest.mpd?ip=190.121.84.38&exp=1781359637&hmac=5185a3023338be604f71146befd3d49e55e2de07
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN DEPORTES
-https://deportes.sdfgnksbounce.com:8080/MTkwLjg2LjEwNC4xMTg=/21_.m3u8?token=x5d9Tmg0ECJ6avxPEm5hLg&expires=1721719260
 
