@@ -50,5 +50,5 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-logo="" group-title="El Salvador", DISNEY 1
-https://disney.playback.edge.bamgrid.com/widevine/v1/channel/obtain-license
+https://svlocallivechannelsdash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(CANAL4SVHD)/manifest.mpd?ip=179.5.68.74&exp=1783934443&hmac=9ef5925d9f0dbbee3ebeaa9df77912b684cf1ddb
 
