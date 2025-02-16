@@ -28,8 +28,7 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlayl
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1610540849_b700000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJxMDqT.png" group-title="El Salvador", Beach
-https://livesg.beachsoccer.hiway.media/restreamer/beachsoccer_client/gpu-g-c0-4/restreamer/outgest/cdf89a42-73fb-4bce-8773-48edb89ee74a/h264_480p_manifest.m3u8?t=MDA7MjEyLjExOS4zMy4yMTszMjsxNzM5NzMyMjk3OzE3Mzk2NzIyOTc7MTI3MDk4NjQ0NzsxNzI2ODMzOTI2Ozk4NzNhZGY0LTU1NzQtNDlkOC1hODU4LWE2NGY4YjM2YjcyYjswOzI3Njg3NDs=.3KyvGwQ
-
+https://livesg.beachsoccer.hiway.media/restreamer/beachsoccer_client/gpu-g-c0-4/restreamer/outgest/cdf89a42-73fb-4bce-8773-48edb89ee74a/h264_720p_manifest.m3u8?t=MDA7MjEyLjExOS4zMy4yMTszMjsxNzM5NzMzNjI5OzE3Mzk2NzM2Mjk7MTI3MDk4NjQ0NzsxNzI2ODMzOTI2O2Q5NjIxNjI2LTNmYTEtNGNiNS05NTJkLTU1OGY4ZjgwZGRiODswOzI3Njg3NDs=.A4aCKIO
 
 
 
