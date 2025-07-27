@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uqz4LLW.png" group-title="El Salvador", Canal 2 TCSGO
-https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
+http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/394115.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bFpRhUF.png" group-title="El Salvador", Canal 4 TCSGO
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
