@@ -1,13 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uqz4LLW.png" group-title="El Salvador", Canal 2 TCSGO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqz4LLW.png" group-title="El Salvador", Canal 2
 http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/394115.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bFpRhUF.png" group-title="El Salvador", Canal 4 TCSGO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bFpRhUF.png" group-title="El Salvador", Canal 4
 http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/152823.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWHdDiZ.png" group-title="El Salvador", Canal 6 TCSGO
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sdhrG0y.png" group-title="El Salvador", Televisión Legislativa
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
@@ -15,14 +16,17 @@ https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIQmjY8.jpg" group-title="El Salvador", Canal 10
 http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/355918.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n66Vkn8.png" group-title="El Salvador", Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1I9y14.png" group-title="El Salvador", Canal 19
 http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/355916.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SCwD5kl.png" group-title="El Salvador", Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJxMDqT.png" group-title="El Salvador", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1610540849_b700000_slen.m3u8
