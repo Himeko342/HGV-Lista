@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Canal 2 SV" tvg-logo="https://i.imgur.com/uqz4LLW.png" group-title="El Salvador", Canal 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqz4LLW.png" group-title="El Salvador",Canal 2
 http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/394115.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bFpRhUF.png" group-title="El Salvador", Canal 4
