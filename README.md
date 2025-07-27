@@ -59,12 +59,12 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NQdu9D0.jpg" group-title="NOTICIAS", DIRECTV SPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://lo1.in/col/dirsp1.png" group-title="NOTICIAS", DIRECTV SPORTS 1 HD
 http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/190372.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NQdu9D0.jpg" group-title="NOTICIAS", DIRECTV SPORTS 2 HD
+#EXTINF:-1 tvg-logo="https://lo1.in/col/dirsp2.png" group-title="NOTICIAS", DIRECTV SPORTS 2 HD
 http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/190371.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NQdu9D0.jpg" group-title="NOTICIAS", DIRECTV SPORTS PLUS
+#EXTINF:-1 tvg-logo="https://lo1.in/col/dirspp.png" group-title="NOTICIAS", DIRECTV SPORTS PLUS
 http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/190370.m3u8
 
