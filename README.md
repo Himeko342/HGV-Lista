@@ -1310,60 +1310,6 @@ http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/62810.m3u8
 http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/1203.m3u8
 #EXTINF:-1 group-title="EU | SPAIN MUSIC",ES| MTV 00S SD
 http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/1202.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",✦●✦ ESPN-SPORT✦●✦ .
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/378829.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",US| ESPN 1 HD
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181387.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",US| ESPN 1 HD [BK]
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/185619.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",US| ESPN 2 HD
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181514.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",US| ESPN 2 HD [BK]
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/400479663.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",US| ESPN NEWS HD
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181384.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",US| ESPN SEC NETWORK HD
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181383.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",US| ESPN U HD
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181433.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",US| ESPNU COLLEGE SPORTS [LIVE-EVENT]
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181385.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",US| ESPN COLLEGE EXTRA 1
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181468.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",US| ESPN COLLEGE EXTRA 2
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181469.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",US| ESPN COLLEGE EXTRA 3
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181470.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",US| ESPN COLLEGE EXTRA 4
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181471.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",US| ESPN COLLEGE EXTRA 5
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181472.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",US| ESPN COLLEGE EXTRA 6
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181473.m3u8
-#EXTINF:-1 group-title="AM | USA ESPN",US| ESPN COLLEGE EXTRA 7
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181474.m3u8
-#EXTINF:-1 group-title="AM | USA FOX SPORT",US| FOX SPORTS FHD
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/77571.m3u8
-#EXTINF:-1 group-title="AM | USA FOX SPORT",US| FOX SPORTS 1 HD
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181440.m3u8
-#EXTINF:-1 group-title="AM | USA FOX SPORT",US| FOX SPORTS 2 HD
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181441.m3u8
-#EXTINF:-1 group-title="AM | USA FOX SPORT",US| FOX SOCCER PLUS HD
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/212534.m3u8
-#EXTINF:-1 group-title="AM | USA FOX SPORT",US| FOX SPORTS TB
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181680.m3u8
-#EXTINF:-1 group-title="AM | USA FOX SPORT",US| FOX SPORTS NETBASE
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181388.m3u8
-#EXTINF:-1 group-title="AM | USA FOX SPORT",US| FOX SPORTS RACING HD
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/212531.m3u8
-#EXTINF:-1 group-title="AM | USA FOX SPORT",US| FOX SPORTS EN ESPANOL
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181676.m3u8
-#EXTINF:-1 group-title="AM | USA FOX SPORT",US| FOX SPORTS RK
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181678.m3u8
-#EXTINF:-1 group-title="AM | USA FOX SPORT",US| FOX DEPORTES
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/181370.m3u8
-#EXTINF:-1 group-title="AM | USA FOX SPORT",US| FOX SPORTS NHRA
-http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/401586545.m3u8
 #EXTINF:-1 group-title="AM | USA UNIMAS",✦●✦ USA-L| UNIMAS ✦●✦
 http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/400449159.m3u8
 #EXTINF:-1 group-title="AM | USA UNIMAS",US| UNIMAS HD
