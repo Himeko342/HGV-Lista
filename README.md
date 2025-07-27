@@ -49,3 +49,22 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NQdu9D0.jpg" group-title="NOTICIAS", DIRECTV SPORTS 1 HD
+http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/190372.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NQdu9D0.jpg" group-title="NOTICIAS", DIRECTV SPORTS 2 HD
+http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/190371.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NQdu9D0.jpg" group-title="NOTICIAS", DIRECTV SPORTS PLUS
+http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/190370.m3u8
+
