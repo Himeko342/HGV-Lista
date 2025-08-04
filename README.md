@@ -1,738 +1,738 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ PLUS HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ PLUS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11022.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ 2 PLUS HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ 2 PLUS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11017.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ ORIGINALES HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ ORIGINALES HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165951.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ #VAMOS HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ #VAMOS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165967.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ #VAMOS BAR HD ( EVENT ONLY )
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ #VAMOS BAR HD ( EVENT ONLY )
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/39847.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", LA 1 HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | LA 1 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165922.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", LA 2 HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | LA 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165923.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", LA SEXTA HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | LA SEXTA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165930.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", CADENA ELITE ESPAÑA HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | CADENA ELITE ESPAÑA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5604.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TELEMADRID HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TELEMADRID HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5609.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", BOM CINE HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | BOM CINE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5614.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", ATRESSERIES HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | ATRESSERIES HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5619.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", POPULAR TV HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | POPULAR TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5626.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", MEGA HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | MEGA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5631.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", XTRM HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | XTRM HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5634.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TV3CAT HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TV3CAT HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5675.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", SOLIDARIA TV ESPAÑA HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | SOLIDARIA TV ESPAÑA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5686.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TV ANDALUCÍA HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TV ANDALUCÍA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5689.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", ETB 1 HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | ETB 1 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/6161.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", ETB 2 HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | ETB 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/6162.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", ETB SAT HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | ETB SAT HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/18426.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", A PUNT HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | A PUNT HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/31306.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", ELCHE HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | ELCHE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/31307.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", FRANCE 24 HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | FRANCE 24 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/31910.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", IBERALIA CAZA HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | IBERALIA CAZA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33574.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", IBERALIA PESCA HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | IBERALIA PESCA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33575.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", 7 ANDALUCIA HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | 7 ANDALUCIA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/63805.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", CANAL 24 HORAS HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | CANAL 24 HORAS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165924.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TVE INTERNACIONAL HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TVE INTERNACIONAL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165925.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", I24 FRANCIS HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | I24 FRANCIS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165926.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", ANTENA 3 HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | ANTENA 3 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165927.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", CUATRO HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | CUATRO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165928.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TELECINCO HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TELECINCO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165929.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", NEOX HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | NEOX HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165934.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", FOX NEWS HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | FOX NEWS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165936.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TELESUR HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TELESUR HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165938.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", ENERGY HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | ENERGY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165965.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", BE MAD HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | BE MAD HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165966.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", IBERALIA TV HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | IBERALIA TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165983.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TV GALICIA HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TV GALICIA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/360743.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TV MELILLA HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TV MELILLA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/362324.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", NEGOCIOS HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | NEGOCIOS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400277211.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", LA OTRA HD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | LA OTRA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401457368.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ PLUS FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ PLUS FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/14569.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ 2 PLUS FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ 2 PLUS FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11018.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ ORIGINALES FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ ORIGINALES FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165866.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ #VAMOS FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ #VAMOS FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165882.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", LA 1 FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | LA 1 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165837.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", LA 2 FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | LA 2 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165838.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", LA SEXTA FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | LA SEXTA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165845.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", BOM CINE FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | BOM CINE FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5616.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", ATRESSERIES FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | ATRESSERIES FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5621.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", MEGA FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | MEGA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5633.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TV3CAT FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TV3CAT FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5676.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TUYA LA JANDA TV FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TUYA LA JANDA TV FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5688.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", XTRM FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | XTRM FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/6141.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", IBERALIA PESCA FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | IBERALIA PESCA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/8015.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", IBERALIA CAZA FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | IBERALIA CAZA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/8017.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", EWTN FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | EWTN FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/34243.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", LA OTRA FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | LA OTRA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/63800.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", CANAL 24 HORAS FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | CANAL 24 HORAS FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165839.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", I24 FRANCIS FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | I24 FRANCIS FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165841.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", ANTENA 3 FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | ANTENA 3 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165842.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", CUATRO FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | CUATRO FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165843.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TELECINCO FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TELECINCO FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165844.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", NEOX FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | NEOX FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165849.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", FOX NEWS FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | FOX NEWS FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165851.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TELESUR FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TELESUR FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165853.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", ENERGY FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | ENERGY FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165880.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", BE MAD FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | BE MAD FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165881.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", IBERALIA TV FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | IBERALIA TV FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165898.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TV GALICIA FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TV GALICIA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/171234.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", Negocios TV FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | Negocios TV FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400407270.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TeleMadrid FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TeleMadrid FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400407272.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TV3 FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TV3 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401357968.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TEN FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TEN FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401357969.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", CMT FHD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | CMT FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401357971.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ PLUS HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ PLUS HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11023.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ 2 PLUS HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ 2 PLUS HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11020.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ ORIGINALES HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ ORIGINALES HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189440.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ #VAMOS HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ #VAMOS HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189456.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", LA 1 HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | LA 1 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189416.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", LA 2 HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | LA 2 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189417.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", LA SEXTA HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | LA SEXTA HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189423.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", BOM CINE HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | BOM CINE HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5615.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", MEGA HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | MEGA HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5632.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", XTRM HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | XTRM HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33522.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TELEMADRID HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TELEMADRID HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33527.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", NEGOCIOS TV HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | NEGOCIOS TV HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33532.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", I24 FRANCIS HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | I24 FRANCIS HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/171238.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TELESUR HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TELESUR HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187592.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", CANAL 24 HORAS HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | CANAL 24 HORAS HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189418.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", ANTENA 3 HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | ANTENA 3 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189420.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", CUATRO HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | CUATRO HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189421.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TELECINCO HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TELECINCO HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189422.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", NEOX HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | NEOX HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189427.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", FOX NEWS HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | FOX NEWS HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189429.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", ENERGY HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | ENERGY HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189454.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", BE MAD HEVC
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | BE MAD HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189455.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ PLUS SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ PLUS SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11021.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ 2 PLUS SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ 2 PLUS SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11019.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ ORIGINALES SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ ORIGINALES SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218264.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", M+ #VAMOS SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | M+ #VAMOS SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218245.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", LA 1 SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | LA 1 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218269.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", LA 2 SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | LA 2 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1239.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", LA SEXTA SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | LA SEXTA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218265.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", ENERGY SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | ENERGY SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1210.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", MEGA SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | MEGA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1215.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", XTRM SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | XTRM SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1219.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", NEOX SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | NEOX SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1226.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", BOM CINE SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | BOM CINE SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1228.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TV GALICIA SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TV GALICIA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1229.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", NEGOCIOS TV SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | NEGOCIOS TV SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1230.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", CANAL EXTREMADURA SAT SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | CANAL EXTREMADURA SAT SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1235.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", BE MAD SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | BE MAD SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1237.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", CANAL 24 HORAS SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | CANAL 24 HORAS SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1238.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TELEMADRID SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TELEMADRID SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1253.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TV3CAT SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TV3CAT SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5674.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", IBERALIA PESCA SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | IBERALIA PESCA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/8014.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", IBERALIA CAZA SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | IBERALIA CAZA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/8016.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", IBERALIA SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | IBERALIA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33579.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", iB3 GLOBAL SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | iB3 GLOBAL SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/34261.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TELESUR SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TELESUR SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/62806.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", 8 Mediterraneo SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | 8 Mediterraneo SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/63807.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", E4 SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | E4 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/63817.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", HIT TV SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | HIT TV SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/63821.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", ATRESSERIES SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | ATRESSERIES SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218229.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TELECINCO SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TELECINCO SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218266.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", CUATRO SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | CUATRO SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218267.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", ANTENA 3 SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | ANTENA 3 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218268.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", El club de la COMEDIA SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | El club de la COMEDIA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401457378.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", LA OTRA SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | LA OTRA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401457379.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", WARNER TV
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | WARNER TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401457381.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", TEN SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | TEN SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401457383.m3u8
-#EXTINF:-1 group-title="ESPAÑA GENERAL", CANAL PARLAMENTO SD
+#EXTINF:-1 group-title="ESPAÑA GENERAL", ES | CANAL PARLAMENTO SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401457385.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 1 ESPAÑA HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 1 ESPAÑA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165068.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 2 ESPAÑA HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 2 ESPAÑA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165070.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 3 ESPAÑA HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 3 ESPAÑA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379046.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 4 ESPAÑA HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 4 ESPAÑA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379047.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 1 ESPAÑA SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 1 ESPAÑA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218246.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 2 ESPAÑA SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 2 ESPAÑA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218228.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 3 ESPAÑA SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 3 ESPAÑA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218227.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 4 ESPAÑA SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 4 ESPAÑA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218226.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 1 ESPAÑA FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 1 ESPAÑA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/360194.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 2 ESPAÑA FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 2 ESPAÑA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/360195.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 3 ESPAÑA FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 3 ESPAÑA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379042.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 4 ESPAÑA FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 4 ESPAÑA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379043.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 1 ESPAÑA HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 1 ESPAÑA HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/360196.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 2 ESPAÑA HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 2 ESPAÑA HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/360197.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 3 ESPAÑA HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 3 ESPAÑA HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379044.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN 4 ESPAÑA HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 4 ESPAÑA HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379045.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN LA LIGA 1 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN LA LIGA 1 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400440768.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN LA LIGA 2 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN LA LIGA 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400440767.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN LA LIGA 1 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN LA LIGA 1 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/21098.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN LA LIGA 2 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN LA LIGA 2 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/21099.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN LA LIGA 1 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN LA LIGA 1 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400440766.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN LA LIGA 2 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN LA LIGA 2 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400440765.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN LA LIGA 1 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN LA LIGA 1 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33569.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN LA LIGA 2 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN LA LIGA 2 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33568.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 1 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 1 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165968.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 1 HD [BK]
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 1 HD [BK]
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401188657.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 1 HD [BK1]
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 1 HD [BK1]
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401188656.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 2 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/375702.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 3 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 3 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400173248.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 4 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 4 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400173249.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 5 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 5 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400173250.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 6 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 6 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400173251.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 7 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 7 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400173252.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 8 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 8 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400173253.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 9 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 9 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400220789.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 10 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 10 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33541.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 11 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 11 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33540.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 12 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 12 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33539.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 13 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 13 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33538.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 1 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 1 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218282.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 2 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 2 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400230644.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 3 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 3 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400230643.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 4 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 4 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218278.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 5 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 5 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218277.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 6 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 6 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218276.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 7 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 7 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218275.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 8 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 8 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218274.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 9 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 9 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218273.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 10 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 10 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218272.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 11 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 11 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1245.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 12 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 12 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1244.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 13 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 13 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/18406.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 1 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 1 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187582.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 1 FHD [BK]
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 1 FHD [BK]
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401188655.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 2 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 2 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187584.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 3 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 3 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187563.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 4 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 4 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187562.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 5 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 5 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400407282.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 6 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 6 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400407281.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 7 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 7 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33807.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 8 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 8 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33806.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 9 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 9 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33805.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 10 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 10 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33804.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 11 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 11 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33803.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 12 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 12 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33802.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 13 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 13 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33801.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LCAMPEONS 4K
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LCAMPEONS 4K
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241868.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 1 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 1 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189457.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 2 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 2 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/375700.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 3 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 3 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/62812.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 4 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 4 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/62811.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LIGA DE CAMPEONES 5 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 5 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33546.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA TV HYPERMOTION HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/39861.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA TV HYPERMOTION M2 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION M2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/129011.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA TV HYPERMOTION M3 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION M3 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/4200.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA TV HYPERMOTION SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/62815.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA TV HYPERMOTION M2 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION M2 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/62814.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA TV HYPERMOTION M3 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION M3 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/62813.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA TV HYPERMOTION FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/39860.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA TV HYPERMOTION M2 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION M2 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/129010.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA TV HYPERMOTION M3 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION M3 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33800.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ GOLF HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ GOLF HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165972.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ GOLF 2 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ GOLF 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/82161.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ ELLAS HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ ELLAS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/10824.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ GOLF SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ GOLF SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218236.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ GOLF 2 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ GOLF 2 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/82162.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ ELLAS SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ ELLAS SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/10823.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ GOLF FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ GOLF FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165887.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ GOLF 2 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ GOLF 2 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/82160.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ ELLAS HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ ELLAS HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33551.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ GOLF HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ GOLF HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189461.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ GOLF 2 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ GOLF 2 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/82163.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGATV BAR HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGATV BAR HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400220778.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165970.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 2 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5971.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 3 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 3 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/5973.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 4 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 4 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400220785.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 5 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 5 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400220783.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGATV BAR SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGATV BAR SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/10816.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218244.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 2 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 2 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218242.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 3 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 3 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218241.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LaLiga 4 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LaLiga 4 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/39855.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGATV BAR FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGATV BAR FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400267408.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165885.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 2 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 2 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187555.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 3 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 3 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187556.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 4 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 4 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187557.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 5 FHD (SOLO EVENTO)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 5 FHD (SOLO EVENTO)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187558.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 6 FHD (SOLO EVENTO)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 6 FHD (SOLO EVENTO)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187559.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 7 FHD (SOLO EVENTO)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 7 FHD (SOLO EVENTO)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187560.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGATV BAR HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGATV BAR HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187567.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 4K
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 4K
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241867.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189459.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 2 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 2 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/9460.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 3 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 3 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/9461.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ LALIGA 4 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 4 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/9462.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 1 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 1 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400220795.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 2 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/155790.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 3 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 3 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/155791.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 4 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 4 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400277208.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 5 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 5 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400220793.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 6 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 6 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400220792.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 7 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 7 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/18404.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 1 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 1 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218240.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 2 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 2 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218238.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 3 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 3 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218237.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 4 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 4 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1248.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 5 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 5 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1247.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 6 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 6 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1246.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 7 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 7 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/18405.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 1 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 1 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165889.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 2 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 2 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187569.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 3 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 3 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187568.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 4 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 4 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/6160.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 5 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 5 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187561.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 7 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 7 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400407279.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 6 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 6 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400407280.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 1 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 1 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189463.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 2 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 2 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189464.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ DEPORTES 3 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 3 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33556.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN F1 ESPAÑA HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN F1 ESPAÑA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165973.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN F1 ESPAÑA SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN F1 ESPAÑA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218225.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN F1 ESPAÑA FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN F1 ESPAÑA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165888.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN F1 ESPAÑA HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN F1 ESPAÑA HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189462.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DAZN F1 ESPAÑA 4K
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN F1 ESPAÑA 4K
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241869.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", EUROSPORT 1 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | EUROSPORT 1 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165981.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", EUROSPORT 2 HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | EUROSPORT 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165982.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", EUROSPORT 1 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | EUROSPORT 1 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218235.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", EUROSPORT 2 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | EUROSPORT 2 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218234.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", EUROSPORT 1 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | EUROSPORT 1 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165896.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", EUROSPORT 2 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | EUROSPORT 2 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165897.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", EUROSPORT 1 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | EUROSPORT 1 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189470.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", EUROSPORT 2 HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | EUROSPORT 2 HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189471.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", MUNDOTORO TV HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | MUNDOTORO TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/34234.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", MUNDOTORO TV SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | MUNDOTORO TV SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/46802.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", MUNDOTORO TV FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | MUNDOTORO TV FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/46801.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", MUNDOTORO TIVIFY SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | MUNDOTORO TIVIFY SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33580.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", MUNDOTORO TIVIFY HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | MUNDOTORO TIVIFY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7996.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ONE TORO TV HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | ONE TORO TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32098.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ONE TORO TV FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | ONE TORO TV FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32096.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ONE TORO TV HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | ONE TORO TV HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32097.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ONE TORO TV SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | ONE TORO TV SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401457285.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", EL TORO TV HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | EL TORO TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165995.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", EL TORO TV SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | EL TORO TV SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1241.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", EL TORO TV FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | EL TORO TV FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7192.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", EL TOROS HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | EL TOROS HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189481.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", TOROS HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | TOROS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165992.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ToroleTV FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | ToroleTV FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/18391.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ToroleTV HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | ToroleTV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/18392.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ToroleTV SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | ToroleTV SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/18393.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", REAL MADRID TV HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | REAL MADRID TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165979.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", REAL MADRID TV SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | REAL MADRID TV SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/62807.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", REAL MADRID TV FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | REAL MADRID TV FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165894.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", REAL MADRID TV HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | REAL MADRID TV HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189468.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", SEVILLA FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | SEVILLA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7995.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", GOL HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | GOL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165977.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", GOL SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | GOL SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1242.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", GOL FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | GOL FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165892.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", GOL HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | GOL HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189466.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", UBEAT HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | UBEAT HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400277175.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", UBEAT SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | UBEAT SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1220.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", UBEAT FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | UBEAT FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/6154.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", UBEAT HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | UBEAT HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33523.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", RED BULL TV HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | RED BULL TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/62403.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", BETIS FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | BETIS FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/8013.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", Esport3 SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | Esport3 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/18303.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DBIKE HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DBIKE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401457286.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DBIKE FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DBIKE FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/18346.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", DBIKE SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DBIKE SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401457287.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", TDP HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | TDP HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/18310.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", RALLY TV (EVENT ONLY)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | RALLY TV (EVENT ONLY)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401618329.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", TELEDEPORTE HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | TELEDEPORTE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165978.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", TELEDEPORTE FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | TELEDEPORTE FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165893.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", TELEDEPORTE HEVC
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | TELEDEPORTE HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189467.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", TELEDEPORTE SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | TELEDEPORTE SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1243.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", LA 1 HD [BK]
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | LA 1 HD [BK]
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36238.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", LA 1 FHD [BK]
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | LA 1 FHD [BK]
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36237.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ PLUS HD [BK]
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ PLUS HD [BK]
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11015.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ 2 PLUS HD [BK]
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ 2 PLUS HD [BK]
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11016.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ COPA DEL REY HD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ COPA DEL REY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401553088.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ COPA DEL REY FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ COPA DEL REY FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401553089.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ COPA DEL REY SD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ COPA DEL REY SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401553087.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ COPA AMERICA 1 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ COPA AMERICA 1 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401258507.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", M+ COPA AMERICA 2 FHD
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ COPA AMERICA 2 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401258506.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 1 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 1 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83119.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 2 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 2 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83118.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 3 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 3 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83117.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 4 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 4 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83116.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 5 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 5 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83115.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 6 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 6 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83114.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 7 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 7 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83113.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 8 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 8 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83112.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 9 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 9 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83111.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 10 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 10 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83110.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 11 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 11 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83109.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 12 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 12 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83108.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 13 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 13 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83107.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 14 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 14 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83106.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 15 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 15 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83105.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 16 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 16 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83104.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 17 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 17 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83103.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 18 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 18 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83102.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 19 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 19 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83101.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", FEF TV 20 FHD (Solo Eventos)
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | FEF TV 20 FHD (Solo Eventos)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/83100.m3u8
 
 #EXTINF:-1 group-title="USA LATINO", LATIN AMÉRICA TEVÉ HD
@@ -951,6 +951,7 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355998.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355918.m3u8
 #EXTINF:-1 group-title="LATINO", EL SALVADOR | MEGAVISION CANAL 19
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355916.m3u8
+
 #EXTINF:-1 group-title="LATINO", ESPAÑA | AXN
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359434.m3u8
 #EXTINF:-1 group-title="LATINO", ESPAÑA | DISNEY CHANEL
@@ -959,171 +960,172 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359451.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359453.m3u8
 #EXTINF:-1 group-title="LATINO", ESPAÑA | DKISS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359448.m3u8
+
 #EXTINF:-1 group-title="LATINO", GUATEMALA | TN23
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355929.m3u8
 #EXTINF:-1 group-title="LATINO", HBO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359170.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | AZTECA CORAZON
+#EXTINF:-1 group-title="LATINO", AZTECA CORAZON
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359187.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | COMEDY CENTRAL
+#EXTINF:-1 group-title="LATINO", COMEDY CENTRAL
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359194.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | EL GARAGE
+#EXTINF:-1 group-title="LATINO", EL GARAGE
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359195.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | EL GOURMET HD
+#EXTINF:-1 group-title="LATINO", EL GOURMET HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359196.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | FORO TV
+#EXTINF:-1 group-title="LATINO", FORO TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359197.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | GLITZ
+#EXTINF:-1 group-title="LATINO", GLITZ
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359200.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | HOLA TV
+#EXTINF:-1 group-title="LATINO", HOLA TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359207.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | LIFETIME
+#EXTINF:-1 group-title="LATINO", LIFETIME
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359215.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | PASIONES
+#EXTINF:-1 group-title="LATINO", PASIONES
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359220.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | UNICABLE
+#EXTINF:-1 group-title="LATINO", UNICABLE
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359228.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | TDN
+#EXTINF:-1 group-title="LATINO", TDN
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23261.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | TELEMUNDO INTERNACIONAL
+#EXTINF:-1 group-title="LATINO", TELEMUNDO INTERNACIONAL
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23259.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | TELEMUNDO
+#EXTINF:-1 group-title="LATINO", TELEMUNDO
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23258.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | UNIMAS
+#EXTINF:-1 group-title="LATINO", UNIMAS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23257.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | ISAT
+#EXTINF:-1 group-title="LATINO", ISAT
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23256.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | GALAVISION HD
+#EXTINF:-1 group-title="LATINO", GALAVISION HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23255.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | HBO PLUS
+#EXTINF:-1 group-title="LATINO", HBO PLUS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23254.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | HBO ESTE
+#EXTINF:-1 group-title="LATINO", HBO ESTE
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23253.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | UNIVISION
+#EXTINF:-1 group-title="LATINO", UNIVISION
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23252.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | UNIVISION TELENOVELAS
+#EXTINF:-1 group-title="LATINO", UNIVISION TELENOVELAS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23251.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | UNIVISION DEPORTES
+#EXTINF:-1 group-title="LATINO", UNIVISION DEPORTES
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23250.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | TELENOVELAS
+#EXTINF:-1 group-title="LATINO", TELENOVELAS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23249.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | TLC
+#EXTINF:-1 group-title="LATINO", TLC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23248.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | FX
+#EXTINF:-1 group-title="LATINO", FX
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23247.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | FOX
+#EXTINF:-1 group-title="LATINO", FOX
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23246.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | FOX ACTION
+#EXTINF:-1 group-title="LATINO", FOX ACTION
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23245.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | FOX CINEMA
+#EXTINF:-1 group-title="LATINO", FOX CINEMA
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23244.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | FOX CLASSIC
+#EXTINF:-1 group-title="LATINO", FOX CLASSIC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23243.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | UNIVERSAL PREMIER
+#EXTINF:-1 group-title="LATINO", UNIVERSAL PREMIER
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23242.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | UNIVERSAL CHANNEL
+#EXTINF:-1 group-title="LATINO", UNIVERSAL CHANNEL
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23241.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | STUDIO UNIVERSAL
+#EXTINF:-1 group-title="LATINO", STUDIO UNIVERSAL
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23240.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | GALA TV
+#EXTINF:-1 group-title="LATINO", GALA TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23239.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | AZTECA UNO
+#EXTINF:-1 group-title="LATINO", AZTECA UNO
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23238.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | AZTECA 7
+#EXTINF:-1 group-title="LATINO", AZTECA 7
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23237.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | AZTECA CINEMA
+#EXTINF:-1 group-title="LATINO", AZTECA CINEMA
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23236.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | AZTECA CLIC
+#EXTINF:-1 group-title="LATINO", AZTECA CLIC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23235.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | DHE
+#EXTINF:-1 group-title="LATINO", DHE
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23233.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | WARNER CHANNEL
+#EXTINF:-1 group-title="LATINO", WARNER CHANNEL
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23232.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | CLARO CINEMA
+#EXTINF:-1 group-title="LATINO", CLARO CINEMA
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23231.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | GOLDEN PREMIER
+#EXTINF:-1 group-title="LATINO", GOLDEN PREMIER
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23230.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | GOLDEN EDGE
+#EXTINF:-1 group-title="LATINO", GOLDEN EDGE
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23229.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | GOLDEN
+#EXTINF:-1 group-title="LATINO", GOLDEN
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23228.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | SPACE
+#EXTINF:-1 group-title="LATINO", SPACE
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23227.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | MAX UP
+#EXTINF:-1 group-title="LATINO", MAX UP
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23226.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | CINEMA DINAMITA
+#EXTINF:-1 group-title="LATINO", CINEMA DINAMITA
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23225.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | MASCHIC
+#EXTINF:-1 group-title="LATINO", MASCHIC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23224.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | E! ENTERTAINMENT
+#EXTINF:-1 group-title="LATINO", E! ENTERTAINMENT
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23223.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | TRU TV
+#EXTINF:-1 group-title="LATINO", TRU TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23222.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | NICK JR
+#EXTINF:-1 group-title="LATINO", NICK JR
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23221.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | NICKELODEON
+#EXTINF:-1 group-title="LATINO", NICKELODEON
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23219.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | NICK 2
+#EXTINF:-1 group-title="LATINO", NICK 2
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23220.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | BOOMERANG
+#EXTINF:-1 group-title="LATINO", BOOMERANG
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23218.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | CANAL 11
+#EXTINF:-1 group-title="LATINO", CANAL 11
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23217.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | CANAL DE LAS ESTRELLAS
+#EXTINF:-1 group-title="LATINO", CANAL DE LAS ESTRELLAS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23216.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | CARTOON NETWORK
+#EXTINF:-1 group-title="LATINO", CARTOON NETWORK
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23215.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | NAT GEO
+#EXTINF:-1 group-title="LATINO", NAT GEO
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23214.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | NAT GEO WILD
+#EXTINF:-1 group-title="LATINO", NAT GEO WILD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23213.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | DISCOVERY CHANNEL
+#EXTINF:-1 group-title="LATINO", DISCOVERY CHANNEL
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23212.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | DISCOVERY INVESTIGATION
+#EXTINF:-1 group-title="LATINO", DISCOVERY INVESTIGATION
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23211.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | DISCOVERY HOME&HEALTH
+#EXTINF:-1 group-title="LATINO", DISCOVERY HOME&HEALTH
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23210.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | DISCOVERY KIDS
+#EXTINF:-1 group-title="LATINO", DISCOVERY KIDS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23209.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | DISCOVERY TURBO
+#EXTINF:-1 group-title="LATINO", DISCOVERY TURBO
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23208.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | DISCOVERY THEATER
+#EXTINF:-1 group-title="LATINO", DISCOVERY THEATER
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23207.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | DISCOVERY SCIENCE
+#EXTINF:-1 group-title="LATINO", DISCOVERY SCIENCE
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23206.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | ANIMAL PLANET
+#EXTINF:-1 group-title="LATINO", ANIMAL PLANET
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23205.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | HISTORY
+#EXTINF:-1 group-title="LATINO", HISTORY
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23204.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | ID
+#EXTINF:-1 group-title="LATINO", ID
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23203.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | H2
+#EXTINF:-1 group-title="LATINO", H2
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23202.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | ESPN
+#EXTINF:-1 group-title="LATINO", ESPN
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23201.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | ESPN 2.
+#EXTINF:-1 group-title="LATINO", ESPN 2.
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23200.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | ESPN 3
+#EXTINF:-1 group-title="LATINO", ESPN 3
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23199.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | FOX SPORT
+#EXTINF:-1 group-title="LATINO", FOX SPORT
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23198.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | FOX SPORT 2
+#EXTINF:-1 group-title="LATINO", FOX SPORT 2
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23197.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | CLARO SPORT
+#EXTINF:-1 group-title="LATINO", CLARO SPORT
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23195.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | CLARO SPORT 2
+#EXTINF:-1 group-title="LATINO", CLARO SPORT 2
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23196.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | WIN SPORTS HD
+#EXTINF:-1 group-title="LATINO", WIN SPORTS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23194.m3u8
 #EXTINF:-1 group-title="LATINO", LATINO| CNN
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23193.m3u8
 #EXTINF:-1 group-title="LATINO", LATINO| CENTRO AMERICA TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/22846.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | HTV
+#EXTINF:-1 group-title="LATINO", HTV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23192.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | MTV
+#EXTINF:-1 group-title="LATINO", MTV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23191.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO | VH1
+#EXTINF:-1 group-title="LATINO", VH1
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23190.m3u8
 #EXTINF:-1 group-title="LATINO", LATINO| QUILPUE TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/42977.m3u8
