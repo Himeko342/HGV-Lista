@@ -947,9 +947,9 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359432.m3u8
 #EXTINF:-1 group-title="LATINO", CINECANAL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355998.m3u8
 
-#EXTINF:-1 group-title="LATINO", EL SALVADOR | CANAL 10
+#EXTINF:-1 group-title="LATINO", SV | CANAL 10
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355918.m3u8
-#EXTINF:-1 group-title="LATINO", EL SALVADOR | MEGAVISION CANAL 19
+#EXTINF:-1 group-title="LATINO", SV | MEGAVISION CANAL 19
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355916.m3u8
 
 #EXTINF:-1 group-title="LATINO", ESPAÑA | AXN
@@ -1994,39 +1994,39 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190255.m3u8
 #EXTINF:-1 group-title="COLOMBIA", CO | NICKELODEON HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190323.m3u8
 
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | WOW TV HD
+#EXTINF:-1 group-title="EL SALVADOR", SV | WOW TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159910.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | TOONCAST HD
+#EXTINF:-1 group-title="EL SALVADOR", SV | TOONCAST HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/195914.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | MEGAVISION CANAL 19 SD
+#EXTINF:-1 group-title="EL SALVADOR", SV | MEGAVISION CANAL 19 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159907.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | UCL HD
+#EXTINF:-1 group-title="EL SALVADOR", SV | UCL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/195910.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | TELESUR HD
+#EXTINF:-1 group-title="EL SALVADOR", SV | TELESUR HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379707.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | CANAL 26 HD
+#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 26 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159903.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | CANAL 12 SD
+#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 12 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159906.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | CANAL 33 FHD
+#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 33 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/195902.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | TASTEMADE EN ESPAÑOL FHD
+#EXTINF:-1 group-title="EL SALVADOR", SV | TASTEMADE EN ESPAÑOL FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241654.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | RT EN ESPAÑOL HD
+#EXTINF:-1 group-title="EL SALVADOR", SV | RT EN ESPAÑOL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241655.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | NUEVO TIEMPO HD
+#EXTINF:-1 group-title="EL SALVADOR", SV | NUEVO TIEMPO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241657.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | TABERTV HD
+#EXTINF:-1 group-title="EL SALVADOR", SV | TABERTV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400255241.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | CANAL 10 HD
+#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 10 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400255242.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | CANAL 4 HD
+#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 4 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/152823.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | HISPANTV SD
+#EXTINF:-1 group-title="EL SALVADOR", SV | HISPANTV SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241661.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | FRANCE 24 ESPAÑOL SD
+#EXTINF:-1 group-title="EL SALVADOR", SV | FRANCE 24 ESPAÑOL SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241662.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | DW ESPAÑOL FHD
+#EXTINF:-1 group-title="EL SALVADOR", SV | DW ESPAÑOL FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241664.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | CUBAVISION INTERNACIONAL SD
+#EXTINF:-1 group-title="EL SALVADOR", SV | CUBAVISION INTERNACIONAL SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241665.m3u8
