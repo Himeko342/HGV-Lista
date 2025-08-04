@@ -900,7 +900,7 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359242.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359291.m3u8
 #EXTINF:-1 group-title="LATINO", ARGENTINA | EL TRECE
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359302.m3u8
-#EXTINF:-1 group-title="LATINO", CINE PREMIUM L LATINO STARZ ENCORE
+#EXTINF:-1 group-title="LATINO", CINE PREMIUM | LATINO STARZ ENCORE
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359311.m3u8
 #EXTINF:-1 group-title="LATINO", CINE SD | A&E LQ
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/356007.m3u8
@@ -1117,9 +1117,9 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23195.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23196.m3u8
 #EXTINF:-1 group-title="LATINO", WIN SPORTS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23194.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| CNN
+#EXTINF:-1 group-title="LATINO", LATINO | CNN
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23193.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| CENTRO AMERICA TV HD
+#EXTINF:-1 group-title="LATINO", LATINO | CENTRO AMERICA TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/22846.m3u8
 #EXTINF:-1 group-title="LATINO", HTV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23192.m3u8
@@ -1127,111 +1127,111 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23192.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23191.m3u8
 #EXTINF:-1 group-title="LATINO", VH1
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23190.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| QUILPUE TV
+#EXTINF:-1 group-title="LATINO", LATINO | QUILPUE TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/42977.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| DRUMBA MIX
+#EXTINF:-1 group-title="LATINO", LATINO | DRUMBA MIX
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/42978.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| DRUMBA SALSA
+#EXTINF:-1 group-title="LATINO", LATINO | DRUMBA SALSA
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/42979.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| BOLIVAR RADIO TV
+#EXTINF:-1 group-title="LATINO", LATINO | BOLIVAR RADIO TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/42980.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| URBANA CRIST
+#EXTINF:-1 group-title="LATINO", LATINO | URBANA CRIST
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/42981.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| URBANA RADIO 96
+#EXTINF:-1 group-title="LATINO", LATINO | URBANA RADIO 96
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/42982.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| FERNET TV
+#EXTINF:-1 group-title="LATINO", LATINO | FERNET TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53320.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| MERENGUE MUSIC
+#EXTINF:-1 group-title="LATINO", LATINO | MERENGUE MUSIC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53321.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| RELAX MUSIC
+#EXTINF:-1 group-title="LATINO", LATINO | RELAX MUSIC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53322.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| SALSA MUSIC
+#EXTINF:-1 group-title="LATINO", LATINO | SALSA MUSIC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53323.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| REGGAETON MUSIC
+#EXTINF:-1 group-title="LATINO", LATINO | REGGAETON MUSIC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53324.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| MISION HD
+#EXTINF:-1 group-title="LATINO", LATINO | MISION HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53325.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| BACHATA MUSIC
+#EXTINF:-1 group-title="LATINO", LATINO | BACHATA MUSIC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53326.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| TV LATINA
+#EXTINF:-1 group-title="LATINO", LATINO | TV LATINA
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53327.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| RETRO TV
+#EXTINF:-1 group-title="LATINO", LATINO | RETRO TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53328.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| CANAL DONA TV
+#EXTINF:-1 group-title="LATINO", LATINO | CANAL DONA TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53329.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| TV GOLGUATEMALA
+#EXTINF:-1 group-title="LATINO", LATINO | TV GOLGUATEMALA
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53330.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| TELEVIDA TV
+#EXTINF:-1 group-title="LATINO", LATINO | TELEVIDA TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53331.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| ACENTO
+#EXTINF:-1 group-title="LATINO", LATINO | ACENTO
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53332.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| DRUMBA TV MUSIC
+#EXTINF:-1 group-title="LATINO", LATINO | DRUMBA TV MUSIC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53333.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| GOGOPLAY HD
+#EXTINF:-1 group-title="LATINO", LATINO | GOGOPLAY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53334.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| CANAL LMS
+#EXTINF:-1 group-title="LATINO", LATINO | CANAL LMS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53335.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| TV CAUSACOMUN
+#EXTINF:-1 group-title="LATINO", LATINO | TV CAUSACOMUN
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53336.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| INTERCONNECT TV
+#EXTINF:-1 group-title="LATINO", LATINO | INTERCONNECT TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53337.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| PANDO NET TV
+#EXTINF:-1 group-title="LATINO", LATINO | PANDO NET TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53338.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| SINART TV
+#EXTINF:-1 group-title="LATINO", LATINO | SINART TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53340.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| MUAZEY TV
+#EXTINF:-1 group-title="LATINO", LATINO | MUAZEY TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53341.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| RCTV HD
+#EXTINF:-1 group-title="LATINO", LATINO | RCTV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53342.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| KIOCA TV
+#EXTINF:-1 group-title="LATINO", LATINO | KIOCA TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53343.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| DRUMB REGGAE
+#EXTINF:-1 group-title="LATINO", LATINO | DRUMB REGGAE
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53344.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| CANAL 35
+#EXTINF:-1 group-title="LATINO", LATINO | CANAL 35
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53345.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| SUPER CHANNEL
+#EXTINF:-1 group-title="LATINO", LATINO | SUPER CHANNEL
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53346.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| YANSIMIMAM MUSIK
+#EXTINF:-1 group-title="LATINO", LATINO | YANSIMIMAM MUSIK
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53347.m3u8
-#EXTINF:-1 group-title="LATINO", LATINO| URBANCRIST
+#EXTINF:-1 group-title="LATINO", LATINO | URBANCRIST
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/53348.m3u8
 #EXTINF:-1 group-title="LATINO", MEGAVISION (RD)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359378.m3u8
-#EXTINF:-1 group-title="LATINO", MEXICO L UNICABLE
+#EXTINF:-1 group-title="LATINO", MEXICO | UNICABLE
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359339.m3u8
-#EXTINF:-1 group-title="LATINO", MEXICO L CANAL 5
+#EXTINF:-1 group-title="LATINO", MEXICO | CANAL 5
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359329.m3u8
-#EXTINF:-1 group-title="LATINO", MEXICO L CANAL ONCE
+#EXTINF:-1 group-title="LATINO", MEXICO | CANAL ONCE
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359330.m3u8
-#EXTINF:-1 group-title="LATINO", MEXICO L DE PELICULA PLUS
+#EXTINF:-1 group-title="LATINO", MEXICO | DE PELICULA PLUS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359331.m3u8
-#EXTINF:-1 group-title="LATINO", MEXICO L DISTRITO COMEDIA
+#EXTINF:-1 group-title="LATINO", MEXICO | DISTRITO COMEDIA
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359332.m3u8
-#EXTINF:-1 group-title="LATINO", MEXICO L TELEHIT PLUS
+#EXTINF:-1 group-title="LATINO", MEXICO | TELEHIT PLUS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359336.m3u8
-#EXTINF:-1 group-title="LATINO", MEXICO L TV FORO
+#EXTINF:-1 group-title="LATINO", MEXICO | TV FORO
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359333.m3u8
 #EXTINF:-1 group-title="LATINO", NIC | CANAL 13
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359461.m3u8
 #EXTINF:-1 group-title="LATINO", NIC | CANAL 6
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359462.m3u8
-#EXTINF:-1 group-title="LATINO", NOTICIAS L TELEMUNDO CHICAGO
+#EXTINF:-1 group-title="LATINO", NOTICIAS | TELEMUNDO CHICAGO
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355938.m3u8
-#EXTINF:-1 group-title="LATINO", NOTICIAS L TELEMUNDO LOS ANGELES
+#EXTINF:-1 group-title="LATINO", NOTICIAS | TELEMUNDO LOS ANGELES
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355936.m3u8
-#EXTINF:-1 group-title="LATINO", NOTICIAS L TELEMUNDO NEWYORK
+#EXTINF:-1 group-title="LATINO", NOTICIAS | TELEMUNDO NEWYORK
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355937.m3u8
 #EXTINF:-1 group-title="LATINO", PANAMA | RPC TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355931.m3u8
 #EXTINF:-1 group-title="LATINO", PANAMA | TVN SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359269.m3u8
-#EXTINF:-1 group-title="LATINO", PERU L AMERICA TV
+#EXTINF:-1 group-title="LATINO", PERU | AMERICA TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359179.m3u8
-#EXTINF:-1 group-title="LATINO", PERU L CANAL EXITOSA
+#EXTINF:-1 group-title="LATINO", PERU | CANAL EXITOSA
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359346.m3u8
-#EXTINF:-1 group-title="LATINO", PERU L GOL PERU
+#EXTINF:-1 group-title="LATINO", PERU | GOL PERU
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359178.m3u8
-#EXTINF:-1 group-title="LATINO", PERU L LATINA HD
+#EXTINF:-1 group-title="LATINO", PERU | LATINA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359177.m3u8
 #EXTINF:-1 group-title="LATINO", PUERTO RICO | TELEMUNDO
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359231.m3u8
@@ -1256,902 +1256,777 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359278.m3u8
 #EXTINF:-1 group-title="LATINO", URUGUAY | TV CIUDA
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/359277.m3u8
 
-#EXTINF:-1 group-title="MEXICO", MX| BIT ME FHD
+#EXTINF:-1 group-title="MEXICO", MX | BIT ME FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190809.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| CANAL 4 FHD
+#EXTINF:-1 group-title="MEXICO", MX | CANAL 4 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190812.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| CANAL 5 FHD
+#EXTINF:-1 group-title="MEXICO", MX | CANAL 5 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27285.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| CANAL 5 HD
+#EXTINF:-1 group-title="MEXICO", MX | CANAL 5 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190813.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| CANAL LAS ESTRELLAS FHD
+#EXTINF:-1 group-title="MEXICO", MX | CANAL LAS ESTRELLAS FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27286.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| CANAL LAS ESTRELLAS HD
+#EXTINF:-1 group-title="MEXICO", MX | CANAL LAS ESTRELLAS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190821.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| CANAL ONCE HD
+#EXTINF:-1 group-title="MEXICO", MX | CANAL ONCE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190822.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| MULTIMEDIOS LAGUNA SD
+#EXTINF:-1 group-title="MEXICO", MX | MULTIMEDIOS LAGUNA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400146236.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| MULTIMEDIOS MONTERREY HD
+#EXTINF:-1 group-title="MEXICO", MX | MULTIMEDIOS MONTERREY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379243.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TLNOVELAS HD
+#EXTINF:-1 group-title="MEXICO", MX | TLNOVELAS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379208.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| DE PELICULA PLUS HD
+#EXTINF:-1 group-title="MEXICO", MX | DE PELICULA PLUS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190826.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| DE PELICULA HD
+#EXTINF:-1 group-title="MEXICO", MX | DE PELICULA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190825.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| EUROPA EUROPA HD
+#EXTINF:-1 group-title="MEXICO", MX | EUROPA EUROPA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190828.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| FORO TV FHD
+#EXTINF:-1 group-title="MEXICO", MX | FORO TV FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27235.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| FORO TV HD
+#EXTINF:-1 group-title="MEXICO", MX | FORO TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190831.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| GLITZ HD
+#EXTINF:-1 group-title="MEXICO", MX | GLITZ HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190834.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| IMAGEN TV HD
+#EXTINF:-1 group-title="MEXICO", MX | IMAGEN TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190837.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| ISAT HD
+#EXTINF:-1 group-title="MEXICO", MX | ISAT HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190842.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| MAS CHIC FHD
+#EXTINF:-1 group-title="MEXICO", MX | MAS CHIC FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190847.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| MILENIO TV HD
+#EXTINF:-1 group-title="MEXICO", MX | MILENIO TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190848.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| NU9VE HD
+#EXTINF:-1 group-title="MEXICO", MX | NU9VE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190851.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| PARAMOUNT CHANNEL FHD
+#EXTINF:-1 group-title="MEXICO", MX | PARAMOUNT CHANNEL FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190853.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| SYFY HD
+#EXTINF:-1 group-title="MEXICO", MX | SYFY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190869.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TBS HD
+#EXTINF:-1 group-title="MEXICO", MX | TBS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190870.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TCM HD
+#EXTINF:-1 group-title="MEXICO", MX | TCM HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190871.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TOONCAST HD
+#EXTINF:-1 group-title="MEXICO", MX | TOONCAST HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190881.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TRU TV HD
+#EXTINF:-1 group-title="MEXICO", MX | TRU TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190884.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TV MAS HD
+#EXTINF:-1 group-title="MEXICO", MX | TV MAS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190885.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| PASIONES TV HD
+#EXTINF:-1 group-title="MEXICO", MX | PASIONES TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7310.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| ANTENA 3 HD
+#EXTINF:-1 group-title="MEXICO", MX | ANTENA 3 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7321.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| UNICABLE HD
+#EXTINF:-1 group-title="MEXICO", MX | UNICABLE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190893.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| ALCARRIA TV SD
+#EXTINF:-1 group-title="MEXICO", MX | ALCARRIA TV SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400146246.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TELEMAX HD
+#EXTINF:-1 group-title="MEXICO", MX | TELEMAX HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400146230.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| Jalisco TV
+#EXTINF:-1 group-title="MEXICO", MX | Jalisco TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401694910.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| HOLA TV FHD
+#EXTINF:-1 group-title="MEXICO", MX | HOLA TV FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27234.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| BANDAMAX FHD
+#EXTINF:-1 group-title="MEXICO", MX | BANDAMAX FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27245.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| DW Spanish
+#EXTINF:-1 group-title="MEXICO", MX | DW Spanish
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/35537.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| NTN24 SD
+#EXTINF:-1 group-title="MEXICO", MX | NTN24 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36418.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| BBC WORLD NEWS FHD
+#EXTINF:-1 group-title="MEXICO", MX | BBC WORLD NEWS FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36426.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| DISTRITO COMEDIA HD
+#EXTINF:-1 group-title="MEXICO", MX | DISTRITO COMEDIA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/35538.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| Ritmoson Latino
+#EXTINF:-1 group-title="MEXICO", MX | Ritmoson Latino
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/31924.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| MEXICANAL
+#EXTINF:-1 group-title="MEXICO", MX | MEXICANAL
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401704574.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| Discovery Science FHD
+#EXTINF:-1 group-title="MEXICO", MX | Discovery Science FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/35564.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| MAV TV SD
+#EXTINF:-1 group-title="MEXICO", MX | MAV TV SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36409.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TDN FHD
+#EXTINF:-1 group-title="MEXICO", MX | TDN FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36410.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TVC DEPORTES FHD
+#EXTINF:-1 group-title="MEXICO", MX | TVC DEPORTES FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36411.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| WOBI SD
+#EXTINF:-1 group-title="MEXICO", MX | WOBI SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36416.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TLR SD
+#EXTINF:-1 group-title="MEXICO", MX | TLR SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36417.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TELERITMO HD
+#EXTINF:-1 group-title="MEXICO", MX | TELERITMO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36419.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TELEVISA FHD
+#EXTINF:-1 group-title="MEXICO", MX | TELEVISA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36420.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| SUNDANCE TV FHD
+#EXTINF:-1 group-title="MEXICO", MX | SUNDANCE TV FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36421.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| CANAL 26 FHD
+#EXTINF:-1 group-title="MEXICO", MX | CANAL 26 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36422.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| CANAL JUDICIAL HD
+#EXTINF:-1 group-title="MEXICO", MX | CANAL JUDICIAL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36423.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TELEVISA PUEBLO HD
+#EXTINF:-1 group-title="MEXICO", MX | TELEVISA PUEBLO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/37148.m3u8
 
-#EXTINF:-1 group-title="MEXICO", MX| FOX SPORTS 1 FHD
+#EXTINF:-1 group-title="MEXICO", MX | FOX SPORTS 1 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190981.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| FOX SPORTS 2 FHD
+#EXTINF:-1 group-title="MEXICO", MX | FOX SPORTS 2 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190982.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| FOX SPORTS 3 HD
+#EXTINF:-1 group-title="MEXICO", MX | FOX SPORTS 3 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190983.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| FOX SPORTS PREMIUM
+#EXTINF:-1 group-title="MEXICO", MX | FOX SPORTS PREMIUM
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401540800.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| ADRENALINA SPORTS NETWORK FHD
+#EXTINF:-1 group-title="MEXICO", MX | ADRENALINA SPORTS NETWORK FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27289.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| ADRENALINA SPORTS NETWORK HD
+#EXTINF:-1 group-title="MEXICO", MX | ADRENALINA SPORTS NETWORK HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190985.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| AYM SPORTS FHD
+#EXTINF:-1 group-title="MEXICO", MX | AYM SPORTS FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190986.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| NBC GOLF FHD
+#EXTINF:-1 group-title="MEXICO", MX | NBC GOLF FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190987.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| ESPN HD
+#EXTINF:-1 group-title="MEXICO", MX | ESPN HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190993.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| ESPN 2 HD
+#EXTINF:-1 group-title="MEXICO", MX | ESPN 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190991.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| ESPN 3 HD
+#EXTINF:-1 group-title="MEXICO", MX | ESPN 3 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190992.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| ESPN Extra HD
+#EXTINF:-1 group-title="MEXICO", MX | ESPN Extra HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190994.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TELEHIT HD
+#EXTINF:-1 group-title="MEXICO", MX | TELEHIT HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190875.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| GOLF CHANNEL HD
+#EXTINF:-1 group-title="MEXICO", MX | GOLF CHANNEL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190989.m3u8
 
-#EXTINF:-1 group-title="MEXICO", MX| FOX NEWS FHD
+#EXTINF:-1 group-title="MEXICO", MX | FOX NEWS FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190763.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| FRANCE 24 HD
+#EXTINF:-1 group-title="MEXICO", MX | FRANCE 24 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190765.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| AL JAZEERA FHD
+#EXTINF:-1 group-title="MEXICO", MX | AL JAZEERA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27239.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| AL JAZEERA HD
+#EXTINF:-1 group-title="MEXICO", MX | AL JAZEERA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27238.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| ADN 40 FHD
+#EXTINF:-1 group-title="MEXICO", MX | ADN 40 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190778.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| MEXIQUENSE HD
+#EXTINF:-1 group-title="MEXICO", MX | MEXIQUENSE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190779.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| CNN INTERNACIONAL LA PNR HD
+#EXTINF:-1 group-title="MEXICO", MX | CNN INTERNACIONAL LA PNR HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7316.m3u8
 
-#EXTINF:-1 group-title="MEXICO", MX| DISCOVERY THEATER FHD
+#EXTINF:-1 group-title="MEXICO", MX | DISCOVERY THEATER FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190785.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| DISCOVERY TLC HD
+#EXTINF:-1 group-title="MEXICO", MX | DISCOVERY TLC HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190787.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| DISCOVERY WORLD FHD
+#EXTINF:-1 group-title="MEXICO", MX | DISCOVERY WORLD FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190789.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| ANIMAL PLANET HD
+#EXTINF:-1 group-title="MEXICO", MX | ANIMAL PLANET HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190790.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| NAT GEO FHD
+#EXTINF:-1 group-title="MEXICO", MX | NAT GEO FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27255.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| NAT GEO HD
+#EXTINF:-1 group-title="MEXICO", MX | NAT GEO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190793.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| NAT GEO WILD HD
+#EXTINF:-1 group-title="MEXICO", MX | NAT GEO WILD HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190794.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| HISTORY FHD
+#EXTINF:-1 group-title="MEXICO", MX | HISTORY FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27272.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| HISTORY HD
+#EXTINF:-1 group-title="MEXICO", MX | HISTORY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190795.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| H2 HISTORY MEX HD
+#EXTINF:-1 group-title="MEXICO", MX | H2 HISTORY MEX HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7314.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| DISCOVERY CHANNEL FHD
+#EXTINF:-1 group-title="MEXICO", MX | DISCOVERY CHANNEL FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27279.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| DISCOVERY CHANNEL HD
+#EXTINF:-1 group-title="MEXICO", MX | DISCOVERY CHANNEL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7298.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| DISCOVERY TURBO FHD
+#EXTINF:-1 group-title="MEXICO", MX | DISCOVERY TURBO FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7296.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| HOLA TV HD
+#EXTINF:-1 group-title="MEXICO", MX | HOLA TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190797.m3u8
 
-#EXTINF:-1 group-title="MEXICO", MX| E! FHD
+#EXTINF:-1 group-title="MEXICO", MX | E! FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27260.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| E! Entertainment FHD
+#EXTINF:-1 group-title="MEXICO", MX | E! Entertainment FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190800.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| EL GOURMET HD
+#EXTINF:-1 group-title="MEXICO", MX | EL GOURMET HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190801.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| A AND E FHD
+#EXTINF:-1 group-title="MEXICO", MX | A AND E FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27240.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| A AND E HD
+#EXTINF:-1 group-title="MEXICO", MX | A AND E HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190792.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| AMC HD
+#EXTINF:-1 group-title="MEXICO", MX | AMC HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190802.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| MTV HD
+#EXTINF:-1 group-title="MEXICO", MX | MTV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190914.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| MTV HITS HD
+#EXTINF:-1 group-title="MEXICO", MX | MTV HITS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190915.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| MTV LIVE HD
+#EXTINF:-1 group-title="MEXICO", MX | MTV LIVE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190916.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| MTV 80'S SD
+#EXTINF:-1 group-title="MEXICO", MX | MTV 80'S SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36415.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| NICK MUSIC SD
+#EXTINF:-1 group-title="MEXICO", MX | NICK MUSIC SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36414.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| FOOD NETWORK HD
+#EXTINF:-1 group-title="MEXICO", MX | FOOD NETWORK HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190924.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| STAR CHANNEL HD
+#EXTINF:-1 group-title="MEXICO", MX | STAR CHANNEL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7307.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| STAR TVE HD
+#EXTINF:-1 group-title="MEXICO", MX | STAR TVE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27284.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| SPACE LATIN AM HD
+#EXTINF:-1 group-title="MEXICO", MX | SPACE LATIN AM HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7308.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| SONY HD
+#EXTINF:-1 group-title="MEXICO", MX | SONY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7309.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| LIFETIME FHD
+#EXTINF:-1 group-title="MEXICO", MX | LIFETIME FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27256.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| COMEDY CENTRAL FHD
+#EXTINF:-1 group-title="MEXICO", MX | COMEDY CENTRAL FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27263.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| AMC FHD
+#EXTINF:-1 group-title="MEXICO", MX | AMC FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27281.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| AMC SD
+#EXTINF:-1 group-title="MEXICO", MX | AMC SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27280.m3u8
 
-#EXTINF:-1 group-title="MEXICO", MX| A3 SERIES FHD
+#EXTINF:-1 group-title="MEXICO", MX | A3 SERIES FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190897.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TNT SERIES FHD
+#EXTINF:-1 group-title="MEXICO", MX | TNT SERIES FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27248.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TNT SERIES HD
+#EXTINF:-1 group-title="MEXICO", MX | TNT SERIES HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190898.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| AZTECA CINEMA HD
+#EXTINF:-1 group-title="MEXICO", MX | AZTECA CINEMA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190899.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| AZTECA MUNDO HD
+#EXTINF:-1 group-title="MEXICO", MX | AZTECA MUNDO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190928.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| AZTECA 7 HD
+#EXTINF:-1 group-title="MEXICO", MX | AZTECA 7 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190931.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| AZTECA CLIC HD
+#EXTINF:-1 group-title="MEXICO", MX | AZTECA CLIC HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190932.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| AZTECA CORAZON HD
+#EXTINF:-1 group-title="MEXICO", MX | AZTECA CORAZON HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190933.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| AZTECA UNO FHD
+#EXTINF:-1 group-title="MEXICO", MX | AZTECA UNO FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190937.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| FX FHD
+#EXTINF:-1 group-title="MEXICO", MX | FX FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27258.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| FX HD
+#EXTINF:-1 group-title="MEXICO", MX | FX HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190909.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| FXM HD
+#EXTINF:-1 group-title="MEXICO", MX | FXM HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190910.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| AXN FHD
+#EXTINF:-1 group-title="MEXICO", MX | AXN FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27247.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| GOLDEN EDGE HD
+#EXTINF:-1 group-title="MEXICO", MX | GOLDEN EDGE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190917.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| GOLDEN HD
+#EXTINF:-1 group-title="MEXICO", MX | GOLDEN HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190918.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| GOLDEN PLUS HD
+#EXTINF:-1 group-title="MEXICO", MX | GOLDEN PLUS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190919.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| LIFETIME HD
+#EXTINF:-1 group-title="MEXICO", MX | LIFETIME HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190938.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TNT FHD
+#EXTINF:-1 group-title="MEXICO", MX | TNT FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27249.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TNT HD
+#EXTINF:-1 group-title="MEXICO", MX | TNT HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190939.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| VH1 HD
+#EXTINF:-1 group-title="MEXICO", MX | VH1 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190942.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| BANDAMAX HD
+#EXTINF:-1 group-title="MEXICO", MX | BANDAMAX HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190946.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| HBO2 HD
+#EXTINF:-1 group-title="MEXICO", MX | HBO2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7294.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| FILM ARTS HD
+#EXTINF:-1 group-title="MEXICO", MX | FILM ARTS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7315.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| CINECANAL FHD
+#EXTINF:-1 group-title="MEXICO", MX | CINECANAL FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7317.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| CINE LATINO HD
+#EXTINF:-1 group-title="MEXICO", MX | CINE LATINO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7318.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| COMEDY CENTRAL HD
+#EXTINF:-1 group-title="MEXICO", MX | COMEDY CENTRAL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190947.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| UNIVERSAL CHANNEL FHD
+#EXTINF:-1 group-title="MEXICO", MX | UNIVERSAL CHANNEL FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190957.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| STUDIO UNIVERSAL FHD
+#EXTINF:-1 group-title="MEXICO", MX | STUDIO UNIVERSAL FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/7306.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| GARAGE TV HD
+#EXTINF:-1 group-title="MEXICO", MX | GARAGE TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190833.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| CANAL 10 CANCUN HD
+#EXTINF:-1 group-title="MEXICO", MX | CANAL 10 CANCUN HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190815.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TELEFORMULA HD
+#EXTINF:-1 group-title="MEXICO", MX | TELEFORMULA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190806.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| ULTRA CINE HD
+#EXTINF:-1 group-title="MEXICO", MX | ULTRA CINE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36473.m3u8
 
-#EXTINF:-1 group-title="MEXICO", MX| NICKTOONS SD
+#EXTINF:-1 group-title="MEXICO", MX | NICKTOONS SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190962.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| BABY TV HD
+#EXTINF:-1 group-title="MEXICO", MX | BABY TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190969.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| CARTOON NETWORK FHD
+#EXTINF:-1 group-title="MEXICO", MX | CARTOON NETWORK FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27243.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| CARTOON NETWORK HD
+#EXTINF:-1 group-title="MEXICO", MX | CARTOON NETWORK HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190970.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| DISNEY JR FHD
+#EXTINF:-1 group-title="MEXICO", MX | DISNEY JR FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27241.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| DISNEY JR HD
+#EXTINF:-1 group-title="MEXICO", MX | DISNEY JR HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190971.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| DISNEY CHANNEL HD
+#EXTINF:-1 group-title="MEXICO", MX | DISNEY CHANNEL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190973.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| NICK JR FHD
+#EXTINF:-1 group-title="MEXICO", MX | NICK JR FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/27273.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| TEENNICK FHD
+#EXTINF:-1 group-title="MEXICO", MX | TEENNICK FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/36413.m3u8
 
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) 40 Y 20
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497572.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) AMOR BRAVIO
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497571.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) AMOR REAL
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497570.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) TRIUNFO DEL AMOR
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497569.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) ANGELIQUE
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497568.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) CANAL VIX
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497567.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) CASITEEN
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497566.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) CINE BOOM
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497565.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) CINE RETRO
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497564.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) CINE ROMANCE
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497563.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) CINE SUSPENSO
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497562.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) CINE TERROR
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497561.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) CINE VIP
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497560.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) COCINA TV
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497559.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) COPS EN ESPAÑOL
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497558.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) DE PELÍCULA PLUS
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497557.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) DERBEZ EN VIX
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497556.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) EL REINO INFANTIL
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497555.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) EURO NEWS
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497554.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) GUERRA DE CHISTES
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497553.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) HASTA QUE EL DINERO NOS SEPARE
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497552.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) LA FUERZA DEL DESTINO
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497551.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) LA PARODIA
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497550.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) LAS 3 MARIAS
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497549.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) LAS ESTRELLAS-1
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497548.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) LAS ESTRELLAS-2
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497547.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) LO MEJOR DE VIÑA DEL MAR
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497546.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) LOVE NATURE
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497545.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) MI CORAZON ES TUYO
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497544.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) MIEMBROS AL AIRE
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497543.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) MINUTO PARA GANAR
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497542.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) N+
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497541.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) N+ MEDIA
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497540.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) N+ MONTERREY
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497539.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) NATURE TIME
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497538.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) NOSOTROS LOS GUAPOS
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497537.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) NOTICIAS UNIVISION 24/7
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497536.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) NOTICIAS UNIVISION 24/7 – HOUSTON
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497535.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) NOTICIAS UNIVISION 24/7 – MIAMI
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497534.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) NUESTRAVISION
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497533.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) NUESTRO CINE
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497532.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) PELICULAS LATINAS
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497531.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) PEQUEÑOS GIGANTES
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497530.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) RCN NOTICIAS
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497529.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) RCN+
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497528.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) REBELDE
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497527.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) RED BULL TV
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497526.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) RISA PICANTE
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497525.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) ROSITA FRESITA
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497524.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) SALA DE EMERGENCIAS
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497523.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) TELEHIT MUSICA
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497522.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) TELEHIT MUSICA PLUS
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497521.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) THE WEATHER CHANNEL EN ESPAÑOL
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497520.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) TUDN
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497519.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) UNA FAMILIA CON SUERTE
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497518.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) UNA FAMILIA DE DIEZ
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497517.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) UNICABLE
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497516.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) VIX PREMIUM PREVIEW
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497515.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) VIX+ PRESENTA
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497514.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) WIPEOUT
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497513.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) ZONA TUDN
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497512.m3u8
-#EXTINF:-1 group-title="MEXICO", MX| (VIX) QUE CULPA TIENE FATMAGUL
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401497511.m3u8
-
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| CANAL ORBE 21 HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | CANAL ORBE 21 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/380160.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| DISCOVERY CHANNEL HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | DISCOVERY CHANNEL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/380157.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| DISCOVERY H&amp;H HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | DISCOVERY H&amp;H HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/380156.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| DISCOVERY WORLD HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | DISCOVERY WORLD HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/380155.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| INVESTIGATION DISCOVERY HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | INVESTIGATION DISCOVERY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/380154.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| FX HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | FX HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/380153.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| GARAGE HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | GARAGE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/380151.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| HBO MUNDI HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | HBO MUNDI HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/380150.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| HBO POP HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | HBO POP HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/380149.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| HBO XTREME HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | HBO XTREME HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/380148.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| NET TV HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | NET TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/380147.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| TEEN NICK HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | TEEN NICK HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/380146.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| TELERED HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | TELERED HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/380144.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| A&E FHD
+#EXTINF:-1 group-title="ARGENTINA", ARG | A&E FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162659.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| A24 HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | A24 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162660.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| AMERICA TV FHD
+#EXTINF:-1 group-title="ARGENTINA", ARG | AMERICA TV FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162662.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| ARGENTINISIMA HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | ARGENTINISIMA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162663.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| AXN HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | AXN HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162665.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| BABY TV HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | BABY TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162666.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| C5N HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | C5N HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162668.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| CANAL 26 HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | CANAL 26 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162673.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| CANAL 9 HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | CANAL 9 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162670.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| CANAL DE LA CIUDAD HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | CANAL DE LA CIUDAD HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162674.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| CARTOON NETWORK HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | CARTOON NETWORK HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162675.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| CINE AR HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | CINE AR HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162676.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| CNN ESPANOL HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | CNN ESPANOL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162681.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| COMEDY CENTRAL HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | COMEDY CENTRAL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162682.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| CRONICA FHD
+#EXTINF:-1 group-title="ARGENTINA", ARG | CRONICA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162683.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| DEPORTV HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | DEPORTV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162684.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| DISNEY CHANNEL HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | DISNEY CHANNEL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162687.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| DISNEY JUNIOR HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | DISNEY JUNIOR HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162688.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| E! HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | E! HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162691.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| EL NUEVE VIVO HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | EL NUEVE VIVO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162693.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| ELTRECE HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | ELTRECE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162694.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| ESPN HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | ESPN HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162696.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| ESPN 2 HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | ESPN 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162698.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| ESPN 3 HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | ESPN 3 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162699.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| ESPN EXTRA HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | ESPN EXTRA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162701.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| EUROPA EUROPA HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | EUROPA EUROPA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162702.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| FILM & ARTS HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | FILM & ARTS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162703.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| FOX NEWS HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | FOX NEWS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162706.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| GLITZ HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | GLITZ HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162719.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| GOLF CHANNEL HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | GOLF CHANNEL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162721.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| GOURMET HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | GOURMET HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162722.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| H2 HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | H2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162723.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| HBO 2 HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | HBO 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162724.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| HBO FAMILY HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | HBO FAMILY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162725.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| HBO HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | HBO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162726.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| HBO SIGNATURE HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | HBO SIGNATURE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162728.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| HISTORY HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | HISTORY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162729.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| HTV HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | HTV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162730.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| LIFETIME HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | LIFETIME HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162732.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| LN+ HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | LN+ HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162733.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| MTV HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | MTV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162738.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| MTV HITS HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | MTV HITS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162739.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| MUSIC TOP
+#EXTINF:-1 group-title="ARGENTINA", ARG | MUSIC TOP
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162740.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| NAT GEO HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | NAT GEO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162743.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| NICK JUNIOR HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | NICK JUNIOR HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162745.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| NICKELODEON HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | NICKELODEON HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162746.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| PAKA PAKA SD
+#EXTINF:-1 group-title="ARGENTINA", ARG | PAKA PAKA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162747.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| PARAMOUNT HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | PARAMOUNT HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162748.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| RURAL HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | RURAL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162750.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| SONY HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | SONY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162752.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| STUDIO UNIVERSAL HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | STUDIO UNIVERSAL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162754.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| TCM HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | TCM HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162757.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| TELEFE HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | TELEFE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162759.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| TELEVISION PUBLICA HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | TELEVISION PUBLICA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162763.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| TODO NOTICIAS HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | TODO NOTICIAS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162765.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| TNT HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | TNT HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162766.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| TNT SERIES HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | TNT SERIES HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162767.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| TNT SPORTS HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | TNT SPORTS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162768.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| TOONCAST HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | TOONCAST HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162769.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| TRUTV HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | TRUTV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162770.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| TYC SPORTS HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | TYC SPORTS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162771.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| UNIVERSAL HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | UNIVERSAL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162772.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| VOLVER HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | VOLVER HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162775.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| WARNER HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | WARNER HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162776.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| 5RTV SANTA FE HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | 5RTV SANTA FE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400145276.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| 5TV CORRIENTES HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | 5TV CORRIENTES HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400145275.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| CANAL 3 PINAMAR HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | CANAL 3 PINAMAR HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400145272.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| CHACRA TV HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | CHACRA TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400145269.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| TELENORD CORRIENTES HD
+#EXTINF:-1 group-title="ARGENTINA", ARG | TELENORD CORRIENTES HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400145262.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| TN
+#EXTINF:-1 group-title="ARGENTINA", ARG | TN
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32052.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| FOX SPORT
+#EXTINF:-1 group-title="ARGENTINA", ARG | FOX SPORT
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32053.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| FOX SPORT 2
+#EXTINF:-1 group-title="ARGENTINA", ARG | FOX SPORT 2
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32054.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| FOX SPORT 3
+#EXTINF:-1 group-title="ARGENTINA", ARG | FOX SPORT 3
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32055.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| ESPN PREMIUM
+#EXTINF:-1 group-title="ARGENTINA", ARG | ESPN PREMIUM
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32056.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| TYC
+#EXTINF:-1 group-title="ARGENTINA", ARG | TYC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32057.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| DIRECT TV SPORTS
+#EXTINF:-1 group-title="ARGENTINA", ARG | DIRECT TV SPORTS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32058.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| DIRECT TV SPORTS 2
+#EXTINF:-1 group-title="ARGENTINA", ARG | DIRECT TV SPORTS 2
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32059.m3u8
-#EXTINF:-1 group-title="AM | ARGENTINA ", ARG| DIRECT TV SPORTS PLUS
+#EXTINF:-1 group-title="ARGENTINA", ARG | DIRECT TV SPORTS PLUS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32060.m3u8
 
-#EXTINF:-1 group-title="AM | CHILE ", CL| ANTOFAGASTA TV FHD
+#EXTINF:-1 group-title="CHILE", CL | ANTOFAGASTA TV FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/395136.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| CANAL 26 HD
+#EXTINF:-1 group-title="CHILE", CL | CANAL 26 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241650.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| CANAL 9 BÍO BÍO TELEVISIÓN HD
+#EXTINF:-1 group-title="CHILE", CL | CANAL 9 BÍO BÍO TELEVISIÓN HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/395131.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| CANAL DIPUTADOS HD
+#EXTINF:-1 group-title="CHILE", CL | CANAL DIPUTADOS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241648.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| CDF BASICO HD
+#EXTINF:-1 group-title="CHILE", CL | CDF BASICO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379721.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| CDO BASICO HD
+#EXTINF:-1 group-title="CHILE", CL | CDO BASICO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/360305.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| CHILEVISION HD
+#EXTINF:-1 group-title="CHILE", CL | CHILEVISION HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159966.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| CNN CHILE HD
+#EXTINF:-1 group-title="CHILE", CL | CNN CHILE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159967.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| CUBAVISION INTERNACIONAL SD
+#EXTINF:-1 group-title="CHILE", CL | CUBAVISION INTERNACIONAL SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241646.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| DW ESPAÑOL HD
+#EXTINF:-1 group-title="CHILE", CL | DW ESPAÑOL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/395133.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| EL PINGÜINO TV HD
+#EXTINF:-1 group-title="CHILE", CL | EL PINGÜINO TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/395135.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| ETC TV SD
+#EXTINF:-1 group-title="CHILE", CL | ETC TV SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379720.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| FOX SPORTS 1 HD
+#EXTINF:-1 group-title="CHILE", CL | FOX SPORTS 1 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159969.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| FRANCE 24 ESPAÑOL SD
+#EXTINF:-1 group-title="CHILE", CL | FRANCE 24 ESPAÑOL SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241644.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| HISPANTV SD
+#EXTINF:-1 group-title="CHILE", CL | HISPANTV SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241642.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| MEGA CHILE HD
+#EXTINF:-1 group-title="CHILE", CL | MEGA CHILE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/195797.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| NUEVO TIEMPO HD
+#EXTINF:-1 group-title="CHILE", CL | NUEVO TIEMPO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241639.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| REC TV HD
+#EXTINF:-1 group-title="CHILE", CL | REC TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159972.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| RT EN ESPAÑOL HD
+#EXTINF:-1 group-title="CHILE", CL | RT EN ESPAÑOL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159964.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| CANAL 13 HD
+#EXTINF:-1 group-title="CHILE", CL | CANAL 13 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379719.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| TASTEMADE EN ESPAÑOL HD
+#EXTINF:-1 group-title="CHILE", CL | TASTEMADE EN ESPAÑOL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241631.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| TEC TELEVISION TEMUCO HD
+#EXTINF:-1 group-title="CHILE", CL | TEC TELEVISION TEMUCO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/395126.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| TELESUR HD
+#EXTINF:-1 group-title="CHILE", CL | TELESUR HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/195795.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| TNT SPORTS HD
+#EXTINF:-1 group-title="CHILE", CL | TNT SPORTS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379718.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| TNT SPORTS 3 HD
+#EXTINF:-1 group-title="CHILE", CL | TNT SPORTS 3 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/37165.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| TNT SPORTS 2 HD
+#EXTINF:-1 group-title="CHILE", CL | TNT SPORTS 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/37166.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| 13 CABLE
+#EXTINF:-1 group-title="CHILE", CL | 13 CABLE
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/37167.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| TV5 LINARES HD
+#EXTINF:-1 group-title="CHILE", CL | TV5 LINARES HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/395124.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| TVG AMÉRICA HD
+#EXTINF:-1 group-title="CHILE", CL | TVG AMÉRICA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241628.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| TVN HD
+#EXTINF:-1 group-title="CHILE", CL | TVN HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159979.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| U LOS LAGOS FHD
+#EXTINF:-1 group-title="CHILE", CL | U LOS LAGOS FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/395123.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| UNIVERSIDAD AUTONOMA TEMUCO FHD
+#EXTINF:-1 group-title="CHILE", CL | UNIVERSIDAD AUTONOMA TEMUCO FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/395120.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| VTV VALLE DE ACONCAGUA HD
+#EXTINF:-1 group-title="CHILE", CL | VTV VALLE DE ACONCAGUA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241622.m3u8
-#EXTINF:-1 group-title="AM | CHILE ", CL| LA RED HD
+#EXTINF:-1 group-title="CHILE", CL | LA RED HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159970.m3u8
 
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| TELEANTIOQUIA SD
+#EXTINF:-1 group-title="COLOMBIA", CO | TELEANTIOQUIA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190391.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| LA KALLE HD
+#EXTINF:-1 group-title="COLOMBIA", CO | LA KALLE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190374.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| COSMOVISION SD
+#EXTINF:-1 group-title="COLOMBIA", CO | COSMOVISION SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190369.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CALI TV HD
+#EXTINF:-1 group-title="COLOMBIA", CO | CALI TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190352.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| PORTAL FOXMIX HD
+#EXTINF:-1 group-title="COLOMBIA", CO | PORTAL FOXMIX HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190284.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| TV GRACIA HD
+#EXTINF:-1 group-title="COLOMBIA", CO | TV GRACIA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379711.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| TV CHILE HD
+#EXTINF:-1 group-title="COLOMBIA", CO | TV CHILE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379712.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| WIN SPORTS+ HD
+#EXTINF:-1 group-title="COLOMBIA", CO | WIN SPORTS+ HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190405.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| WIN SPORTS COLOMBIA HD
+#EXTINF:-1 group-title="COLOMBIA", CO | WIN SPORTS COLOMBIA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190402.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| ABN AVIVAMIENTO FHD
+#EXTINF:-1 group-title="COLOMBIA", CO | ABN AVIVAMIENTO FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/394116.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| TRECE TV HD
+#EXTINF:-1 group-title="COLOMBIA", CO | TRECE TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190400.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| TLC HD
+#EXTINF:-1 group-title="COLOMBIA", CO | TLC HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190399.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| ZOOM
+#EXTINF:-1 group-title="COLOMBIA", CO | ZOOM
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/37142.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| UAO PLAY HD
+#EXTINF:-1 group-title="COLOMBIA", CO | UAO PLAY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/394111.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| TELEPACIFICO TV HD
+#EXTINF:-1 group-title="COLOMBIA", CO | TELEPACIFICO TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190397.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| TELEMEDELLIN FHD
+#EXTINF:-1 group-title="COLOMBIA", CO | TELEMEDELLIN FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190394.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| TELECARIBE HD
+#EXTINF:-1 group-title="COLOMBIA", CO | TELECARIBE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190393.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| TELE ISLAS HD
+#EXTINF:-1 group-title="COLOMBIA", CO | TELE ISLAS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190389.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| SENAL COLOMBIA FHD
+#EXTINF:-1 group-title="COLOMBIA", CO | SENAL COLOMBIA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190408.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| RCN TV FHD
+#EXTINF:-1 group-title="COLOMBIA", CO | RCN TV FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190413.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| RCN MAS TV HD
+#EXTINF:-1 group-title="COLOMBIA", CO | RCN MAS TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400225173.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| RCN MAS TV FHD
+#EXTINF:-1 group-title="COLOMBIA", CO | RCN MAS TV FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/163022.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| RCN NUESTRA TELE FHD
+#EXTINF:-1 group-title="COLOMBIA", CO | RCN NUESTRA TELE FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190382.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| NTN24 SD
+#EXTINF:-1 group-title="COLOMBIA", CO | NTN24 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190376.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| DIRECTV SPORTS 1 HD
+#EXTINF:-1 group-title="COLOMBIA", CO | DIRECTV SPORTS 1 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190372.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| DIRECTV SPORTS 2 HD
+#EXTINF:-1 group-title="COLOMBIA", CO | DIRECTV SPORTS 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190371.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| DIRECTV SPORTS PLUS HD
+#EXTINF:-1 group-title="COLOMBIA", CO | DIRECTV SPORTS PLUS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190370.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CITY TV HD
+#EXTINF:-1 group-title="COLOMBIA", CO | CITY TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190407.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CANAL VISIÓN DORADA HD
+#EXTINF:-1 group-title="COLOMBIA", CO | CANAL VISIÓN DORADA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/394113.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CANAL 2 HD
+#EXTINF:-1 group-title="COLOMBIA", CO | CANAL 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/394115.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CARACOL INTERNACIONAL HD
+#EXTINF:-1 group-title="COLOMBIA", CO | CARACOL INTERNACIONAL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190406.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CARACOL HD
+#EXTINF:-1 group-title="COLOMBIA", CO | CARACOL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190364.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CANAL UNO HD
+#EXTINF:-1 group-title="COLOMBIA", CO | CANAL UNO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190360.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CANAL INSTITUCIONAL FHD
+#EXTINF:-1 group-title="COLOMBIA", CO | CANAL INSTITUCIONAL FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190356.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CANAL CAPITAL HD
+#EXTINF:-1 group-title="COLOMBIA", CO | CANAL CAPITAL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190353.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CABLE NOTICIAS HD
+#EXTINF:-1 group-title="COLOMBIA", CO | CABLE NOTICIAS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190351.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| DW AMERIKA HD
+#EXTINF:-1 group-title="COLOMBIA", CO | DW AMERIKA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190265.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| DHE FHD
+#EXTINF:-1 group-title="COLOMBIA", CO | DHE FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190252.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| DE PELICULA HD
+#EXTINF:-1 group-title="COLOMBIA", CO | DE PELICULA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190251.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| ANIMAL PLANET HD
+#EXTINF:-1 group-title="COLOMBIA", CO | ANIMAL PLANET HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190224.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CINELATINO HD
+#EXTINF:-1 group-title="COLOMBIA", CO | CINELATINO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190242.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| VH1 HD
+#EXTINF:-1 group-title="COLOMBIA", CO | VH1 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190344.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| VH1 CLASSIC HD
+#EXTINF:-1 group-title="COLOMBIA", CO | VH1 CLASSIC HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190345.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| UNIVERSAL CHANNEL HD
+#EXTINF:-1 group-title="COLOMBIA", CO | UNIVERSAL CHANNEL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190343.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| TVE SD
+#EXTINF:-1 group-title="COLOMBIA", CO | TVE SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190342.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| TRUTV HD
+#EXTINF:-1 group-title="COLOMBIA", CO | TRUTV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190341.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| TOONCAST SD
+#EXTINF:-1 group-title="COLOMBIA", CO | TOONCAST SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190340.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| TELECAFE SD
+#EXTINF:-1 group-title="COLOMBIA", CO | TELECAFE SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190335.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| TBS HD
+#EXTINF:-1 group-title="COLOMBIA", CO | TBS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190331.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| NICK JR HD
+#EXTINF:-1 group-title="COLOMBIA", CO | NICK JR HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190322.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| NAT GEO HD
+#EXTINF:-1 group-title="COLOMBIA", CO | NAT GEO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190319.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| MTV LIVE HD
+#EXTINF:-1 group-title="COLOMBIA", CO | MTV LIVE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190317.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| MTV HITS HD
+#EXTINF:-1 group-title="COLOMBIA", CO | MTV HITS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190316.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| MASCHIC HD
+#EXTINF:-1 group-title="COLOMBIA", CO | MASCHIC HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190313.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| ISAT HD
+#EXTINF:-1 group-title="COLOMBIA", CO | ISAT HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190311.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| INVESTIGATION DISCOVERY HD
+#EXTINF:-1 group-title="COLOMBIA", CO | INVESTIGATION DISCOVERY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190310.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| HTV SD
+#EXTINF:-1 group-title="COLOMBIA", CO | HTV SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190309.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| HBO SIGNATURE HD
+#EXTINF:-1 group-title="COLOMBIA", CO | HBO SIGNATURE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190305.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| HBO PLUS HD
+#EXTINF:-1 group-title="COLOMBIA", CO | HBO PLUS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190304.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| HBO FAMILY HD
+#EXTINF:-1 group-title="COLOMBIA", CO | HBO FAMILY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190303.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| HBO 2 HD
+#EXTINF:-1 group-title="COLOMBIA", CO | HBO 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190302.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| HBO HD
+#EXTINF:-1 group-title="COLOMBIA", CO | HBO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190301.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| H2 HD
+#EXTINF:-1 group-title="COLOMBIA", CO | H2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190300.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| GOURMET HD
+#EXTINF:-1 group-title="COLOMBIA", CO | GOURMET HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190299.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| GLITZ SD
+#EXTINF:-1 group-title="COLOMBIA", CO | GLITZ SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190294.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| FXM HD
+#EXTINF:-1 group-title="COLOMBIA", CO | FXM HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190293.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| FRANCE 24 HD
+#EXTINF:-1 group-title="COLOMBIA", CO | FRANCE 24 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190291.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| ESPN 3 HD
+#EXTINF:-1 group-title="COLOMBIA", CO | ESPN 3 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190270.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| ESPN 2 HD
+#EXTINF:-1 group-title="COLOMBIA", CO | ESPN 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190269.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| ESPN HD
+#EXTINF:-1 group-title="COLOMBIA", CO | ESPN HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190268.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| ENLACE SD
+#EXTINF:-1 group-title="COLOMBIA", CO | ENLACE SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190267.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| DISNEY JR HD
+#EXTINF:-1 group-title="COLOMBIA", CO | DISNEY JR HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190262.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| DISCOVERY WORLD HD
+#EXTINF:-1 group-title="COLOMBIA", CO | DISCOVERY WORLD HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190260.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| DISCOVERY THEATER HD
+#EXTINF:-1 group-title="COLOMBIA", CO | DISCOVERY THEATER HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190258.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| DISCOVERY SCIENCE HD
+#EXTINF:-1 group-title="COLOMBIA", CO | DISCOVERY SCIENCE HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190257.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| DISCOVERY KIDS HD
+#EXTINF:-1 group-title="COLOMBIA", CO | DISCOVERY KIDS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190256.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| DISCOVERY CHANNEL HD
+#EXTINF:-1 group-title="COLOMBIA", CO | DISCOVERY CHANNEL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190253.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CNN INTERNACIONAL HD
+#EXTINF:-1 group-title="COLOMBIA", CO | CNN INTERNACIONAL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190248.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CNN ESPANOL SD
+#EXTINF:-1 group-title="COLOMBIA", CO | CNN ESPANOL SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190247.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CLARO SPORTS LATAM HD
+#EXTINF:-1 group-title="COLOMBIA", CO | CLARO SPORTS LATAM HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190348.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CINEMA DINAMITA HD
+#EXTINF:-1 group-title="COLOMBIA", CO | CINEMA DINAMITA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190243.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| CINECANAL HD
+#EXTINF:-1 group-title="COLOMBIA", CO | CINECANAL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190241.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| BOOMERANG HD
+#EXTINF:-1 group-title="COLOMBIA", CO | BOOMERANG HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190234.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| BLOOMBERG HD
+#EXTINF:-1 group-title="COLOMBIA", CO | BLOOMBERG HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190233.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| BBC WORLD NEWS HD
+#EXTINF:-1 group-title="COLOMBIA", CO | BBC WORLD NEWS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190232.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| AMC HD
+#EXTINF:-1 group-title="COLOMBIA", CO | AMC HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190223.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| ALJAZEERA HD
+#EXTINF:-1 group-title="COLOMBIA", CO | ALJAZEERA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190222.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| DISCOVERY HOME HEALTH HD
+#EXTINF:-1 group-title="COLOMBIA", CO | DISCOVERY HOME HEALTH HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190255.m3u8
-#EXTINF:-1 group-title="AM | COLOMBIA", CO| NICKELODEON HD
+#EXTINF:-1 group-title="COLOMBIA", CO | NICKELODEON HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190323.m3u8
 
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| WOW TV HD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | WOW TV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159910.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| TOONCAST HD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | TOONCAST HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/195914.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| MEGAVISION CANAL 19 SD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | MEGAVISION CANAL 19 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159907.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| UCL HD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | UCL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/195910.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| TELESUR HD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | TELESUR HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379707.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| CANAL 26 HD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | CANAL 26 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159903.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| CANAL 12 SD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | CANAL 12 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159906.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| CANAL 33 FHD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | CANAL 33 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/195902.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| TASTEMADE EN ESPAÑOL FHD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | TASTEMADE EN ESPAÑOL FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241654.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| RT EN ESPAÑOL HD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | RT EN ESPAÑOL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241655.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| NUEVO TIEMPO HD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | NUEVO TIEMPO HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241657.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| TABERTV HD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | TABERTV HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400255241.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| CANAL 10 HD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | CANAL 10 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400255242.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| CANAL 4 HD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | CANAL 4 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/152823.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| HISPANTV SD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | HISPANTV SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241661.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| FRANCE 24 ESPAÑOL SD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | FRANCE 24 ESPAÑOL SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241662.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| DW ESPAÑOL FHD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | DW ESPAÑOL FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241664.m3u8
-#EXTINF:-1 group-title="AM | EL SALVADOR", SV| CUBAVISION INTERNACIONAL SD
+#EXTINF:-1 group-title="EL SALVADOR", EL SALVADOR | CUBAVISION INTERNACIONAL SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241665.m3u8
