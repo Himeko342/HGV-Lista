@@ -65,6 +65,8 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190763.m3u8
 
 ESPAÑA DEPORTES
 
+
+
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ PLUS SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11021.m3u8
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ PLUS HEVC
@@ -98,8 +100,6 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165882.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ #VAMOS BAR HD ( EVENT ONLY )
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/39847.m3u8
-
-
 
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 1 ESPAÑA SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218246.m3u8
@@ -137,8 +137,6 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379047.m3u8
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN 4 ESPAÑA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379043.m3u8
 
-
-
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN LA LIGA 1 SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/21098.m3u8
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN LA LIGA 1 HEVC
@@ -156,8 +154,6 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33568.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400440767.m3u8
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | DAZN LA LIGA 2 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400440765.m3u8
-
-
 
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGATV BAR SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/10816.m3u8
@@ -214,7 +210,6 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187559.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA 7 FHD (SOLO EVENTO)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/187560.m3u8
-
 
 
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 1 SD
@@ -325,7 +320,6 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33538.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33801.m3u8
 
 
-
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/62815.m3u8
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION HD
@@ -348,14 +342,12 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/4200.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33800.m3u8
 
 
-
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ ELLAS SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/10823.m3u8
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ ELLAS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/10824.m3u8
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ ELLAS HEVC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33551.m3u8
-
 
 
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ DEPORTES 1 SD
@@ -414,14 +406,12 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/18404.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400407279.m3u8
 
 
-
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ COPA DEL REY SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401553087.m3u8
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ COPA DEL REY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401553088.m3u8
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ COPA DEL REY FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401553089.m3u8
-
 
 
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | EUROSPORT 1 SD
@@ -441,7 +431,6 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189471.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165982.m3u8
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | EUROSPORT 2 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165897.m3u8
-
 
 
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | REAL MADRID TV SD
@@ -516,6 +505,7 @@ USA LATINO
 
 USA LATINO DEPORTES
 
+
 #EXTINF:-1 group-title="USA LATINO", US LATIN | BEIN SPORTS EN ESPANOL
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176987.m3u8
 #EXTINF:-1 group-title="USA LATINO", US LATIN | BEIN SPORTS CONNECT LALIGA
@@ -536,9 +526,7 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176898.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176989.m3u8
 
 
-
 USA LATINO GENERAL
-
 
 
 #EXTINF:-1 group-title="USA LATINO", US LATIN HBO LATINO (EAST)
@@ -556,7 +544,6 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176875.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/177003.m3u8
 #EXTINF:-1 group-title="USA LATINO", US LATIN | DISCOVERY ESPANOL
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176978.m3u8
-
 #EXTINF:-1 group-title="USA LATINO", US LATIN | DISCOVERY FAMILIA
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176980.m3u8
 
@@ -636,7 +623,6 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23254.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23253.m3u8
 
 
-
 #EXTINF:-1 group-title="LATINO", LAT | CINE Y SERIE | SONY HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355988.m3u8
 
@@ -648,7 +634,6 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355995.m3u8
 
 #EXTINF:-1 group-title="LATINO", LAT | CINE | AMC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/356008.m3u8
-
 
 
 #EXTINF:-1 group-title="LATINO", LAT | FX
@@ -716,6 +701,7 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23207.m3u8
 #EXTINF:-1 group-title="LATINO", LAT | DISCOVERY SCIENCE
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23206.m3u8
 
+
 #EXTINF:-1 group-title="LATINO", LAT | ANIMAL PLANET
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23205.m3u8
 
@@ -731,6 +717,7 @@ MEXICO
 
 
 MEXICO DEPORTES
+
 
 #EXTINF:-1 group-title="MEXICO", MX | FOX SPORTS 1 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190981.m3u8
@@ -821,6 +808,7 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32055.m3u8
 #EXTINF:-1 group-title="ARGENTINA", ARG | ESPN PREMIUM
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32056.m3u8
 
+
 #EXTINF:-1 group-title="ARGENTINA", ARG | TYC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32057.m3u8
 
@@ -873,8 +861,3 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190270.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190269.m3u8
 #EXTINF:-1 group-title="COLOMBIA", CO | ESPN HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190268.m3u8
-
-
-
-
-
