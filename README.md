@@ -17,7 +17,6 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 
 #EXTINF:-1 group-title="EL SALVADOR", LAT | SV | CANAL 10
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355918.m3u8
-
 #EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 10 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400255242.m3u8
 
@@ -25,10 +24,10 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400255242.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159906.m3u8
 
 #EXTINF:-1 group-title="EL SALVADOR", SV | MEGAVISION CANAL 19 SD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159907.m3u8
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="EL SALVADOR", SV | MEGAVISION CANAL 19
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355916.m3u8
+#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 21
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 
 
 
@@ -38,8 +37,6 @@ NOTICIAS
 
 #EXTINF:-1 group-title="NOTICIAS", DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="NOTICIAS", DW Spanish
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/35537.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS", FRANCE 24 ESPAÑOL SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241644.m3u8
