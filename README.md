@@ -729,13 +729,14 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190983.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/401540800.m3u8
 
 
-#EXTINF:-1 group-title="MEXICO", MX | ESPN HD
+#EXTINF:-1 group-title="MEXICO", MX | ESPN
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190993.m3u8
-#EXTINF:-1 group-title="MEXICO", MX | ESPN 2 HD
+#EXTINF:-1 group-title="MEXICO", MX | ESPN 2
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190991.m3u8
-#EXTINF:-1 group-title="MEXICO", MX | ESPN 3 HD
+#EXTINF:-1 group-title="MEXICO", MX | ESPN 3
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190992.m3u8
-#EXTINF:-1 group-title="MEXICO", MX | ESPN Extra HD
+#EXTINF:-1 group-title="MEXICO", MX | ESPN 4
+http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/190994.m3u8
 
 
 MEXICO GENERAL
