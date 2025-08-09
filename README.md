@@ -6,9 +6,6 @@ EL SALVADOR
 
 
 
-#EXTINF:-1 group-title="PRUEBA", PRUEBA | 
-http://line.ume4khd.com:80/854A6F/712881/101238
-
 #EXTINF:-1 group-title="EL SALVADOR", SV | WOW TV HD
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1763171376_b1000000_slen.m3u8
 
