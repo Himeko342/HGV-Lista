@@ -2,38 +2,6 @@
 
 
 
-EL SALVADOR
-
-
-
-#EXTINF:-1 group-title="EL SALVADOR", SV | WOW TV HD
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1763171376_b1000000_slen.m3u8
-
-#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 4 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/152823.m3u8
-
-#EXTINF:-1 group-title="EL SALVADOR", SV | TCS+
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-
-#EXTINF:-1 group-title="EL SALVADOR", SV | Televisión Legislativa
-https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
-
-#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 10
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355918.m3u8
-#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 10 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400255242.m3u8
-
-#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 12 SD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159906.m3u8
-
-#EXTINF:-1 group-title="EL SALVADOR", SV | MEGAVISION CANAL 19 SD
-https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
-
-#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 21
-https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
-
-
-
 NOTICIAS
 
 
