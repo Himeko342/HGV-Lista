@@ -4,5 +4,8 @@
 #EXTINF:-1 group-title="USA LATINO", US - ESPN DEPORTES HD
 http://line.king-4k.cc:80/live/854A6F/712881/362742.m3u8
 
-#EXTINF:-1 group-title="USA LATINO", CO - DIRECTV SPORTS 1 
+#EXTINF:-1 group-title="Colombia", CO - DIRECTV SPORTS 1 
 http://line.king-4k.cc:80/854A6F/712881/117665
+
+#EXTINF:-1 group-title="Colombia", CO - DIRECTV SPORTS 2 
+http://line.king-4k.cc:80/854A6F/712881/117666
