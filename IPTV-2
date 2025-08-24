@@ -1,11 +1,62 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="USA LATINO", US - ESPN DEPORTES HD
-http://line.king-4k.cc:80/854A6F/712881/362742
 
-#EXTINF:-1 group-title="Colombia", CO - DIRECTV SPORTS 1 
-http://line.king-4k.cc:80/854A6F/712881/117665
+EL SALVADOR
 
-#EXTINF:-1 group-title="Colombia", CO - DIRECTV SPORTS 2 
-http://line.king-4k.cc:80/854A6F/712881/117666
+
+
+#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 4 HD
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/152823.m3u8
+
+#EXTINF:-1 group-title="EL SALVADOR", SV | TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+
+#EXTINF:-1 group-title="EL SALVADOR", SV | Televisión Legislativa
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+
+#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 10
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/355918.m3u8
+#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 10 HD
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400255242.m3u8
+
+#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 12 SD
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159906.m3u8
+
+#EXTINF:-1 group-title="EL SALVADOR", SV | MEGAVISION CANAL 19 SD
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 21
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="EL SALVADOR", SV | WOW TV HD
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1763171376_b1000000_slen.m3u8
+
+
+
+NOTICIAS
+
+
+
+#EXTINF:-1 group-title="NOTICIAS", DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", RT EN ESPAÑOL HD
+https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", FRANCE 24 ESPAÑOL SD
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241644.m3u8
+#EXTINF:-1 group-title="NOTICIAS", FRANCE 24 EN ESPAÑOL
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/177009.m3u8
+#EXTINF:-1 group-title="NOTICIAS", FRANCE 24 HD
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190765.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", CNN ESPANOL
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176974.m3u8
+#EXTINF:-1 group-title="NOTICIAS", CNN ESPANOL (op2)
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176882.m3u8
+#EXTINF:-1 group-title="NOTICIAS", CNN ESPANOL (op3)
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23193.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", FOX NEWS FHD
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190763.m3u8
