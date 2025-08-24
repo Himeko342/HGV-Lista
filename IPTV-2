@@ -5,9 +5,14 @@
 EL SALVADOR
 
 
+#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 2
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
-#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 4 HD
+#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 4
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/152823.m3u8
+
+#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 6
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
 #EXTINF:-1 group-title="EL SALVADOR", SV | TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
