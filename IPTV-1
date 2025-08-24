@@ -2,60 +2,8 @@
 
 
 
-NOTICIAS
-
-
-
-#EXTINF:-1 group-title="NOTICIAS", DW ESPAÑOL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", FRANCE 24 ESPAÑOL SD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241644.m3u8
-#EXTINF:-1 group-title="NOTICIAS", FRANCE 24 EN ESPAÑOL
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/177009.m3u8
-#EXTINF:-1 group-title="NOTICIAS", FRANCE 24 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190765.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", RT EN ESPAÑOL HD
-https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", CNN ESPANOL
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176974.m3u8
-#EXTINF:-1 group-title="NOTICIAS", CNN ESPANOL (op2)
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176882.m3u8
-#EXTINF:-1 group-title="NOTICIAS", CNN ESPANOL (op3)
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23193.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", FOX NEWS FHD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190763.m3u8
-
-
-
 ESPAÑA DEPORTES
 
-
-
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ PLUS SD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11021.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ PLUS HEVC
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11023.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ PLUS HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11022.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ PLUS FHD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/14569.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ PLUS HD [BK]
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11015.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ 2 PLUS SD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11019.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ 2 PLUS HEVC
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11020.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ 2 PLUS HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11017.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ 2 PLUS FHD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11018.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ 2 PLUS HD [BK]
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/11016.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ #VAMOS SD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218245.m3u8
@@ -265,49 +213,6 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218272.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33541.m3u8
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 10 FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33804.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 11 SD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1245.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 11 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33540.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 11 FHD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33803.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 12 SD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/1244.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 12 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33539.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 12 FHD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33802.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 13 SD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/18406.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 13 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33538.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LIGA DE CAMPEONES 13 FHD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33801.m3u8
-
-
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION SD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/62815.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/39861.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION FHD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/39860.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION M2 SD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/62814.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION M2 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/129011.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION M2 FHD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/129010.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION M3 SD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/62813.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION M3 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/4200.m3u8
-#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA TV HYPERMOTION M3 FHD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/33800.m3u8
 
 
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ ELLAS SD
