@@ -2,6 +2,7 @@
 
 
 
+
 ESPAÑA DEPORTES
 
 
@@ -86,6 +87,8 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400218244.m3u8
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/189459.m3u8
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165970.m3u8
+#EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA HD (op2)
+http://line.king-4k.cc:80/854A6F/712881/36543
 #EXTINF:-1 group-title="ESPAÑA DEPORTES", ES | M+ LALIGA FHD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/165885.m3u8
 
@@ -463,18 +466,30 @@ SUR AMERICA
 
 #EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162696.m3u8
-#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN HD 
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN (op2)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190268.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN (op3)
+http://line.king-4k.cc:80/854A6F/712881/101314
 
-#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 2 HD
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 2 
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162698.m3u8
-#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 2 HD
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 2 (op2)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190269.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 2 (op3)
+http://line.king-4k.cc:80/854A6F/712881/101315
 
-#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 3 HD
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 3
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162699.m3u8
-#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 3 HD
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 3 (op2)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190270.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 3 (op3)
+http://line.king-4k.cc:80/854A6F/712881/101316
+
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 4
+http://line.king-4k.cc:80/854A6F/712881/101317
+
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 5
+http://line.king-4k.cc:80/854A6F/712881/1508360
 
 #EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN PREMIUM
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32056.m3u8
@@ -482,32 +497,53 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32056.m3u8
 
 #EXTINF:-1 group-title="SUR AMERICA", SUR | FOX SPORT
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32053.m3u8
-#EXTINF:-1 group-title="SUR AMERICA", SUR | FOX SPORTS 1 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159969.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | FOX SPORT (op2)
+http://line.ume4khd.com:80/live/854A6F/712881/101306
+
 #EXTINF:-1 group-title="SUR AMERICA", SUR | FOX SPORT 2
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32054.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | FOX SPORT 2 (op2)
+http://line.ume4khd.com:80/live/854A6F/712881/101307
+
 #EXTINF:-1 group-title="SUR AMERICA", SUR | FOX SPORT 3
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32055.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | FOX SPORT 3(op2)
+http://line.ume4khd.com:80/live/854A6F/712881/101308
 
 
 #EXTINF:-1 group-title="SUR AMERICA", SUR | TYC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32057.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | TYC (0p2)
+http://line.king-4k.cc:80/854A6F/712881/101318
+
+#EXTINF:-1 group-title="SUR AMERICA", SUR | TYC 2
+http://line.king-4k.cc:80/854A6F/712881/1508361
 
 
 #EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32058.m3u8
 #EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS (op2)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190372.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS (op3)
+http://line.king-4k.cc:80/854A6F/712881/101311
+#EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS (op4)
+http://line.king-4k.cc:80/854A6F/712881/117665
 
 #EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS 2
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32059.m3u8
 #EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS 2 (op2)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190371.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS 2 (op3)
+http://line.king-4k.cc:80/854A6F/712881/101312
+#EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS 2 (op4)
+http://line.king-4k.cc:80/854A6F/712881/117666
 
 #EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS PLUS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32060.m3u8
 #EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS PLUS (op2)
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190370.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS PLUS (op3)
+http://line.king-4k.cc:80/854A6F/712881/101313
 
 
 #EXTINF:-1 group-title="SUR AMERICA", SUR | TNT SPORTS HD
