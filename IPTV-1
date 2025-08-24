@@ -386,10 +386,16 @@ http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176988.m3u8
 #EXTINF:-1 group-title="USA LATINO", US LATIN BEIN SPORTS XTRA EN ESPANOL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176894.m3u8
 
-#EXTINF:-1 group-title="USA LATINO", US LATIN | ESPN DEPORTES HD
+#EXTINF:-1 group-title="USA LATINO", US | ESPN DEPORTES HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176986.m3u8
-#EXTINF:-1 group-title="USA LATINO", US LATIN | ESPN DEPORTES HD (op 2)
-http://line.king-4k.cc:80/live/854A6F/712881/362742.m3u8
+#EXTINF:-1 group-title="USA LATINO", US | ESPN DEPORTES HD (op2)
+http://line.ume4khd.com:80/live/854A6F/712881/362742
+#EXTINF:-1 group-title="USA LATINO", US | ESPN DEPORTES HD (op3)
+http://line.king-4k.cc:80/854A6F/712881/362742
+#EXTINF:-1 group-title="USA LATINO", US | ESPN DEPORTES HD (op4)
+http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/401433420.m3u8
+#EXTINF:-1 group-title="USA LATINO", US | ESPN DEPORTES HD (op5)
+http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/176986.m3u8
 
 #EXTINF:-1 group-title="USA LATINO", US LATIN | GOL TV
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176981.m3u8
