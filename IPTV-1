@@ -458,74 +458,65 @@ http://cdjxckhk.qastertv.xyz:900/live/885Z8UV4/L7DY5EJR/190994.m3u8
 
 
 
-ARGENTINA DEPORTES
+SUR AMERICA
 
 
-
-#EXTINF:-1 group-title="ARGENTINA", ARG | ESPN HD
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162696.m3u8
-#EXTINF:-1 group-title="ARGENTINA", ARG | ESPN 2 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162698.m3u8
-#EXTINF:-1 group-title="ARGENTINA", ARG | ESPN 3 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162699.m3u8
-#EXTINF:-1 group-title="ARGENTINA", ARG | ESPN EXTRA HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162701.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN HD 
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190268.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA", ARG | FOX SPORT
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32053.m3u8
-#EXTINF:-1 group-title="ARGENTINA", ARG | FOX SPORT 2
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32054.m3u8
-#EXTINF:-1 group-title="ARGENTINA", ARG | FOX SPORT 3
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32055.m3u8
-#EXTINF:-1 group-title="ARGENTINA", ARG | ESPN PREMIUM
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 2 HD
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162698.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 2 HD
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190269.m3u8
+
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 3 HD
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/162699.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN 3 HD
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190270.m3u8
+
+#EXTINF:-1 group-title="SUR AMERICA", SUR | ESPN PREMIUM
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32056.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA", ARG | TYC
+
+#EXTINF:-1 group-title="SUR AMERICA", SUR | FOX SPORT
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32053.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | FOX SPORTS 1 HD
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159969.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | FOX SPORT 2
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32054.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | FOX SPORT 3
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32055.m3u8
+
+
+#EXTINF:-1 group-title="SUR AMERICA", SUR | TYC
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32057.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA", ARG | DIRECT TV SPORTS
+
+#EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32058.m3u8
-#EXTINF:-1 group-title="ARGENTINA", ARG | DIRECT TV SPORTS 2
+#EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS (op2)
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190372.m3u8
+
+#EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS 2
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32059.m3u8
-#EXTINF:-1 group-title="ARGENTINA", ARG | DIRECT TV SPORTS PLUS
+#EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS 2 (op2)
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190371.m3u8
+
+#EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS PLUS
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/32060.m3u8
+#EXTINF:-1 group-title="SUR AMERICA", SUR | DIRECTV SPORTS PLUS (op2)
+http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190370.m3u8
 
 
-
-CHILE DEPORTES
-
-
-
-#EXTINF:-1 group-title="CHILE", CL | FOX SPORTS 1 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/159969.m3u8
-
-#EXTINF:-1 group-title="CHILE", CL | TNT SPORTS HD
+#EXTINF:-1 group-title="SUR AMERICA", SUR | TNT SPORTS HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/379718.m3u8
-#EXTINF:-1 group-title="CHILE", CL | TNT SPORTS 2 HD
+#EXTINF:-1 group-title="SUR AMERICA", SUR | TNT SPORTS 2 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/37166.m3u8
-#EXTINF:-1 group-title="CHILE", CL | TNT SPORTS 3 HD
+#EXTINF:-1 group-title="SUR AMERICA", SUR | TNT SPORTS 3 HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/37165.m3u8
 
 
-
-COLOMBIA DEPORTES
-
-
-
-#EXTINF:-1 group-title="COLOMBIA", CO | DIRECTV SPORTS 1 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190372.m3u8
-#EXTINF:-1 group-title="COLOMBIA", CO | DIRECTV SPORTS 2 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190371.m3u8
-#EXTINF:-1 group-title="COLOMBIA", CO | DIRECTV SPORTS PLUS HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190370.m3u8
-
-#EXTINF:-1 group-title="COLOMBIA", CO | CARACOL HD
+#EXTINF:-1 group-title="SUR AMERICA", SUR | CARACOL HD
 http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190364.m3u8
-
-#EXTINF:-1 group-title="COLOMBIA", CO | ESPN HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190268.m3u8
-#EXTINF:-1 group-title="COLOMBIA", CO | ESPN 2 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190269.m3u8
-#EXTINF:-1 group-title="COLOMBIA", CO | ESPN 3 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190270.m3u8
-
