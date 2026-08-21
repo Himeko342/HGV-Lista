@@ -17,7 +17,8 @@ https://svlocallivechannelsdash.clarovideo.com/Content/DASH_DASH_FK/Live/channel
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
 #EXTINF:-1 group-title="EL SALVADOR", SV | TCS+
-https://svlocallivechannelsdash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(CANAL4SVHD)/manifest.mpd?ip=179.5.69.10&exp=1787366419&hmac=02522b8bdd26b5fe3ab243437f407244b1778cdb
+https://svlocallivechannelsdash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(CANAL5SVHD)/manifest.mpd?ip=179.5.69.10&exp=1787367337&hmac=5b689eafd16eb87d27cc19ff779f5626d84b0553
+
 
 #EXTINF:-1 group-title="EL SALVADOR", SV | Televisión Legislativa
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
