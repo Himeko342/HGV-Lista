@@ -4,9 +4,8 @@
 
 EL SALVADOR
 
-#EXTINF:-1 group-title="EL SALVADOR", SV | Paramount
-https://sa.tudeporteshoy.xyz/paramount1/tracks-v1a1/mono.m3u8?ip=190.87.193.88&token=0ebedbbdc363794a760c5ca8d9a555efb77c52fd-1f-1786890116-1786836116
-
+#EXTINF:-1 group-title="EL SALVADOR", SV | Aloud
+https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/ncSXq9y300lTuLN9OgRjZwV0001UpnVaiR0001gIAI8upmfINQGJLRiuKC6b6XfIG7CtB3wQ6JABnz00nYrVwZSEQnSARN5soG8u01m/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1792202400&live=1&skid=default&signature=NmFkMmQ0MjNfMWM1Y2RkNGVlNGM4ZmIwZjczNmVmNzk4ODJjMGIzNmE4MGE4MjVlYTI1OTFmZThmNDJjNjIwODNkMjlmZDIyZg==
 #EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
