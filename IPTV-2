@@ -6,7 +6,6 @@ EL SALVADOR
 
 #EXTINF:-1 group-title="EL SALVADOR", SV | Aloud
 https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/5GQf00ipcPbd702B1q01TxTJPV1NkTGK5xo7GvpI6FL01N5pchHUGcXdtyo1OFkZ9HWFVh02g02X400ZxuFU002tuKJmsiciyhRGeELM/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1792461600&live=1&skid=default&signature=NmFkNmNiNGZfNzJhZmJhZjc5ZWMxNjk2YzI4MTk3YTdjOTBjZWUxNTQwM2RhZGUzZTU5ZTI3MGRmOGYyNTM1MjlkYTk4YTA3OQ==#EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 2
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
 #EXTINF:-1 group-title="EL SALVADOR", SV | CANAL 4
 https://svlocallivechannelsdash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(CANAL4SVHD)/manifest.mpd?ip=179.5.69.10&exp=1787366419&hmac=02522b8bdd26b5fe3ab243437f407244b1778cdb
