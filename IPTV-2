@@ -45,25 +45,8 @@ NOTICIAS
 
 
 
-#EXTINF:-1 group-title="NOTICIAS", DW ESPAÑOL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="NOTICIAS", DW ESPAÑOL HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS", RT EN ESPAÑOL HD
-https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", FRANCE 24 ESPAÑOL SD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/400241644.m3u8
-#EXTINF:-1 group-title="NOTICIAS", FRANCE 24 EN ESPAÑOL
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/177009.m3u8
-#EXTINF:-1 group-title="NOTICIAS", FRANCE 24 HD
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/190765.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", CNN ESPANOL
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176974.m3u8
-#EXTINF:-1 group-title="NOTICIAS", CNN ESPANOL (op2)
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/176882.m3u8
-#EXTINF:-1 group-title="NOTICIAS", CNN ESPANOL (op3)
-http://tyaqfink.qastertv.xyz:900/live/C15A7U1X/WBJ2E8GF/23193.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", ALOUD
-https://manifest-oci-us-ashburn-1-vop1.edgemv.mux.com/Uszv01NPEeoz3jKFglstLMs3Boyp8ZDqyMf7s8FrbiF02w3EYDL2HfVfPa00ZCrvtQocGK1E00nFFCwP7ZDYF7Y1Sq9uxpC9Qjhz/rendition.m3u8?cdn=edgemv&exclude_pdt=false&expires=1775786400&live=1&skid=edgemv-default-1&signature=NjlkODVjMmFfOWRjMzFhNDc4ZmY4OWQ4YWRlZGJmYmMxN2Q3N2Q3MjQ2MTEwOGI0ZjFkNGI2NWE2YjQ5MzM3ZWNjYjczMzZiYQ==
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
